@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "İngilizce 500",
+    "slug": "ingilizce500",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0f172a"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ingilizce500.app"
+    },
+    "android": {
+      "package": "com.ingilizce500.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
