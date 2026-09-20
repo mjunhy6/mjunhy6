@@ -6,11 +6,12 @@ import { buildOptions } from '../state/progress';
 
 interface Props {
   word: WordEntry;
+  mode: 'new' | 'review';
   allWords: WordEntry[];
   onAnswer: (correct: boolean) => void;
 }
 
-export function QuizScreen({ word, allWords, onAnswer }: Props) {
+export function QuizScreen({ word, mode, allWords, onAnswer }: Props) {
   const options = useMemo(() => buildOptions(word, allWords), [word.id]);
   const [selected, setSelected] = useState<string | null>(null);
 
@@ -23,7 +24,14 @@ export function QuizScreen({ word, allWords, onAnswer }: Props) {
 
   return (
     <View style={styles.container}>
-      <LevelBadge level={word.level} />
+      <View style={styles.topRow}>
+        <LevelBadge level={word.level} />
+        {mode === 'review' && (
+          <View style={styles.reviewTag}>
+            <Text style={styles.reviewTagText}>🔁 Tekrar</Text>
+          </View>
+        )}
+      </View>
       <Text style={styles.pos}>{word.pos}</Text>
       <Text style={styles.word}>{word.word}</Text>
       <Text style={styles.prompt}>Bu kelimenin Türkçe karşılığı nedir?</Text>
@@ -54,6 +62,14 @@ export function QuizScreen({ word, allWords, onAnswer }: Props) {
 
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: '#0f172a', padding: 24, paddingTop: 64 },
+  topRow: { flexDirection: 'row', alignItems: 'center', gap: 8 },
+  reviewTag: {
+    backgroundColor: '#312e81',
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 999,
+  },
+  reviewTagText: { color: '#c7d2fe', fontSize: 12, fontWeight: '700' },
   pos: { color: '#94a3b8', fontSize: 13, marginTop: 12, textTransform: 'uppercase' },
   word: { color: '#f8fafc', fontSize: 40, fontWeight: '800', marginTop: 4 },
   prompt: { color: '#cbd5e1', fontSize: 15, marginTop: 24, marginBottom: 16 },

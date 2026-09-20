@@ -4,15 +4,25 @@ import { WordEntry } from '../data/types';
 
 interface Props {
   word: WordEntry;
+  mode: 'new' | 'review';
   wasCorrect: boolean;
   onNext: () => void;
   onStop: () => void;
 }
 
-export function FeedbackScreen({ word, wasCorrect, onNext, onStop }: Props) {
+export function FeedbackScreen({ word, mode, wasCorrect, onNext, onStop }: Props) {
+  const headline = wasCorrect
+    ? mode === 'review'
+      ? '🎉 Tebrikler, hâlâ hatırlıyorsun!'
+      : '🎉 Tebrikler, doğru!'
+    : '📌 Doğrusu buydu';
+
   return (
     <ScrollView contentContainerStyle={styles.container}>
-      <Text style={styles.headline}>{wasCorrect ? '🎉 Tebrikler, doğru!' : '📌 Doğrusu buydu'}</Text>
+      <Text style={styles.headline}>{headline}</Text>
+      {wasCorrect && mode === 'review' && (
+        <Text style={styles.reviewNote}>Bu kelime bir süre sonra tekrar karşına çıkacak.</Text>
+      )}
       <Text style={styles.wordRow}>
         {word.word} <Text style={styles.turkish}>— {word.turkish}</Text>
       </Text>
@@ -40,6 +50,7 @@ export function FeedbackScreen({ word, wasCorrect, onNext, onStop }: Props) {
 const styles = StyleSheet.create({
   container: { flexGrow: 1, backgroundColor: '#0f172a', padding: 24, paddingTop: 64 },
   headline: { color: '#f8fafc', fontSize: 24, fontWeight: '800' },
+  reviewNote: { color: '#a5b4fc', fontSize: 13, marginTop: 6 },
   wordRow: { color: '#f8fafc', fontSize: 22, fontWeight: '700', marginTop: 12 },
   turkish: { color: '#94a3b8', fontWeight: '500' },
   examplesTitle: { color: '#cbd5e1', fontSize: 14, marginTop: 24, marginBottom: 8 },

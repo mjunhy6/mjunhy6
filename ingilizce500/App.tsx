@@ -5,6 +5,7 @@ import words from './src/data/words.json';
 import { WordEntry } from './src/data/types';
 import {
   ProgressState,
+  QueueItem,
   loadProgress,
   saveProgress,
   recordAnswer,
@@ -22,7 +23,7 @@ type View_ = 'loading' | 'home' | 'quiz' | 'feedback';
 export default function App() {
   const [view, setView] = useState<View_>('loading');
   const [progress, setProgress] = useState<ProgressState | null>(null);
-  const [currentWord, setCurrentWord] = useState<WordEntry | null>(null);
+  const [current, setCurrent] = useState<QueueItem | null>(null);
   const [wasCorrect, setWasCorrect] = useState(false);
 
   useEffect(() => {
@@ -46,12 +47,12 @@ export default function App() {
       setView('home');
       return;
     }
-    setCurrentWord(next);
+    setCurrent(next);
     setView('quiz');
   }
 
   async function handleAnswer(correct: boolean) {
-    const updated = recordAnswer(progress!, currentWord!.id, correct);
+    const updated = recordAnswer(progress!, current!.word.id, correct, current!.mode);
     setProgress(updated);
     await saveProgress(updated);
     setWasCorrect(correct);
@@ -64,12 +65,12 @@ export default function App() {
       setView('home');
       return;
     }
-    setCurrentWord(next);
+    setCurrent(next);
     setView('quiz');
   }
 
-  const stats = computeStats(progress);
-  const allDone = stats.learnedCount >= WORDS.length;
+  const stats = computeStats(WORDS, progress);
+  const allDone = stats.learnedCount >= WORDS.length && stats.dueReviewCount === 0;
 
   return (
     <>
@@ -77,12 +78,13 @@ export default function App() {
       {view === 'home' && (
         <HomeScreen stats={stats} progress={progress} onStart={startQuiz} allDone={allDone} />
       )}
-      {view === 'quiz' && currentWord && (
-        <QuizScreen word={currentWord} allWords={WORDS} onAnswer={handleAnswer} />
+      {view === 'quiz' && current && (
+        <QuizScreen word={current.word} mode={current.mode} allWords={WORDS} onAnswer={handleAnswer} />
       )}
-      {view === 'feedback' && currentWord && (
+      {view === 'feedback' && current && (
         <FeedbackScreen
-          word={currentWord}
+          word={current.word}
+          mode={current.mode}
           wasCorrect={wasCorrect}
           onNext={handleNext}
           onStop={() => setView('home')}

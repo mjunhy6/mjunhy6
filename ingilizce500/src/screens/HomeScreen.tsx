@@ -36,6 +36,15 @@ export function HomeScreen({ stats, progress, onStart, allDone }: Props) {
         </Text>
       </View>
 
+      {stats.dueReviewCount > 0 && (
+        <View style={[styles.card, styles.reviewCard]}>
+          <Text style={styles.cardLabel}>🔁 Tekrar zamanı</Text>
+          <Text style={styles.cardValue}>
+            {stats.dueReviewCount} kelimeyi tekrar etme zamanı geldi
+          </Text>
+        </View>
+      )}
+
       <View style={styles.statsRow}>
         <View style={styles.statBox}>
           <Text style={styles.statValue}>{progress.streakDays}</Text>
@@ -64,7 +73,11 @@ export function HomeScreen({ stats, progress, onStart, allDone }: Props) {
       ) : (
         <Pressable style={styles.button} onPress={onStart}>
           <Text style={styles.buttonText}>
-            {goalReached ? 'Tekrar Çalış' : 'Kelime Öğrenmeye Başla'}
+            {stats.dueReviewCount > 0
+              ? `Tekrar Et (${stats.dueReviewCount})`
+              : goalReached
+              ? 'Tekrar Çalış'
+              : 'Kelime Öğrenmeye Başla'}
           </Text>
         </Pressable>
       )}
@@ -82,6 +95,7 @@ const styles = StyleSheet.create({
     padding: 16,
     marginBottom: 16,
   },
+  reviewCard: { borderWidth: 1, borderColor: '#4338ca', backgroundColor: '#1e1b4b' },
   cardLabel: { color: '#cbd5e1', fontSize: 13, marginBottom: 8 },
   cardValue: { color: '#f8fafc', fontSize: 15, marginTop: 8, fontWeight: '600' },
   statsRow: { flexDirection: 'row', justifyContent: 'space-between', marginBottom: 16 },
