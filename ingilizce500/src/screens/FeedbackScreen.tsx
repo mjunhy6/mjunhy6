@@ -1,6 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, Pressable, ScrollView } from 'react-native';
 import { WordEntry } from '../data/types';
+import { SpeakerButton } from '../components/SpeakerButton';
 
 interface Props {
   word: WordEntry;
@@ -23,14 +24,18 @@ export function FeedbackScreen({ word, mode, wasCorrect, onNext, onStop }: Props
       {wasCorrect && mode === 'review' && (
         <Text style={styles.reviewNote}>Bu kelime bir süre sonra tekrar karşına çıkacak.</Text>
       )}
-      <Text style={styles.wordRow}>
-        {word.word} <Text style={styles.turkish}>— {word.turkish}</Text>
-      </Text>
+      <View style={styles.wordLine}>
+        <Text style={styles.wordText}>
+          {word.word} <Text style={styles.turkish}>— {word.turkish}</Text>
+        </Text>
+        <SpeakerButton text={word.word} />
+      </View>
 
       <Text style={styles.examplesTitle}>Örnek cümleler</Text>
       {word.examples.map((ex, i) => (
         <View key={i} style={styles.exampleCard}>
           <Text style={styles.exampleText}>{ex}</Text>
+          <SpeakerButton text={ex} />
         </View>
       ))}
 
@@ -51,7 +56,8 @@ const styles = StyleSheet.create({
   container: { flexGrow: 1, backgroundColor: '#0f172a', padding: 24, paddingTop: 64 },
   headline: { color: '#f8fafc', fontSize: 24, fontWeight: '800' },
   reviewNote: { color: '#a5b4fc', fontSize: 13, marginTop: 6 },
-  wordRow: { color: '#f8fafc', fontSize: 22, fontWeight: '700', marginTop: 12 },
+  wordLine: { flexDirection: 'row', alignItems: 'center', gap: 12, marginTop: 12 },
+  wordText: { color: '#f8fafc', fontSize: 22, fontWeight: '700', flexShrink: 1 },
   turkish: { color: '#94a3b8', fontWeight: '500' },
   examplesTitle: { color: '#cbd5e1', fontSize: 14, marginTop: 24, marginBottom: 8 },
   exampleCard: {
@@ -59,8 +65,12 @@ const styles = StyleSheet.create({
     borderRadius: 12,
     padding: 14,
     marginBottom: 10,
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    gap: 12,
   },
-  exampleText: { color: '#e2e8f0', fontSize: 15, lineHeight: 22 },
+  exampleText: { color: '#e2e8f0', fontSize: 15, lineHeight: 22, flex: 1 },
   question: { color: '#f8fafc', fontSize: 16, marginTop: 24, marginBottom: 12, fontWeight: '600' },
   buttonRow: { flexDirection: 'row', gap: 12 },
   button: {

@@ -21,6 +21,9 @@ web'de çalışır).
    ertesi gün yeniden sorulur. Ana sayfada o gün tekrar zamanı gelen kelime sayısı
    gösterilir ve tekrar soruları, yeni kelimelerden önce sorulur — böylece öğrenilenler
    unutulmadan pekiştirilir.
+8. **Sesli telaffuz:** Hem quiz ekranındaki kelimenin hem de geri bildirim ekranındaki
+   kelime ve 3 örnek cümlenin yanında 🔊 butonu var; `expo-speech` ile Amerikan
+   İngilizcesi (`en-US`) aksanıyla sesli okunuyor.
 
 ## Çalıştırma
 
@@ -49,24 +52,22 @@ App.tsx                 Ekranlar arası basit durum makinesi
 
 Bunlar şu an uygulanmadı; sıradaki adımlar olarak düşünülebilir:
 
-1. **Sesli telaffuz:** `expo-speech` ile her kelime ve örnek cümle için TTS (metinden
-   sese) çalma butonu — Amerikan aksanına odaklandığınız için `en-US` sesi seçilebilir.
-2. **Dinleme modu:** Kelimeyi/cümleyi dinleyip yazma (dictation) alıştırması.
-3. **Tersten soru:** Bazen Türkçe → İngilizce yönünde de sorulsun (üretici hafıza).
-4. **Cümle tamamlama sorusu:** Örnek cümledeki kelime boş bırakılıp 4 şıktan seçtirilsin.
-5. **Günlük bildirim / hatırlatma:** `expo-notifications` ile "bugünkü 10 kelimeni henüz
+1. **Dinleme modu:** Kelimeyi/cümleyi dinleyip yazma (dictation) alıştırması.
+2. **Tersten soru:** Bazen Türkçe → İngilizce yönünde de sorulsun (üretici hafıza).
+3. **Cümle tamamlama sorusu:** Örnek cümledeki kelime boş bırakılıp 4 şıktan seçtirilsin.
+4. **Günlük bildirim / hatırlatma:** `expo-notifications` ile "bugünkü 10 kelimeni henüz
    tamamlamadın" veya "bugün tekrar edilecek kelimelerin var" bildirimi.
-6. **Rozetler / başarımlar:** 50, 100, 250, 500 kelime; 7/14/30 günlük seri gibi
+5. **Rozetler / başarımlar:** 50, 100, 250, 500 kelime; 7/14/30 günlük seri gibi
    kilometre taşlarında rozet.
-7. **Seviye testi / atla:** Uygulamaya ilk girişte kısa bir seviye tespit testiyle
+6. **Seviye testi / atla:** Uygulamaya ilk girişte kısa bir seviye tespit testiyle
    kullanıcı zaten bildiği seviyeyi (ör. A1-A2) atlayıp doğrudan B1'den başlayabilsin.
-8. **İstatistik ekranı:** Haftalık/aylık öğrenme grafiği, en çok hata yapılan kelimeler
+7. **İstatistik ekranı:** Haftalık/aylık öğrenme grafiği, en çok hata yapılan kelimeler
    listesi, tekrar geçmişi.
-9. **Çoklu cihaz senkronizasyonu:** Şu an ilerleme sadece cihazda saklanıyor; bulut
+8. **Çoklu cihaz senkronizasyonu:** Şu an ilerleme sadece cihazda saklanıyor; bulut
    senkronizasyonu (ör. basit bir backend + hesap) eklenerek cihaz değişse de ilerleme
    korunabilir.
-10. **Kelime kartı / flashcard modu:** Quiz dışında serbestçe kaydırarak tüm 500
-    kelimeye göz atma ekranı.
+9. **Kelime kartı / flashcard modu:** Quiz dışında serbestçe kaydırarak tüm 500
+   kelimeye göz atma ekranı.
 
 ## Veri seti hakkında not
 

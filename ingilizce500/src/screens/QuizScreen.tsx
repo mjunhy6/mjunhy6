@@ -2,6 +2,7 @@ import React, { useMemo, useState } from 'react';
 import { View, Text, StyleSheet, Pressable } from 'react-native';
 import { WordEntry } from '../data/types';
 import { LevelBadge } from '../components/LevelBadge';
+import { SpeakerButton } from '../components/SpeakerButton';
 import { buildOptions } from '../state/progress';
 
 interface Props {
@@ -33,7 +34,10 @@ export function QuizScreen({ word, mode, allWords, onAnswer }: Props) {
         )}
       </View>
       <Text style={styles.pos}>{word.pos}</Text>
-      <Text style={styles.word}>{word.word}</Text>
+      <View style={styles.wordRow}>
+        <Text style={styles.word}>{word.word}</Text>
+        <SpeakerButton text={word.word} size="large" />
+      </View>
       <Text style={styles.prompt}>Bu kelimenin Türkçe karşılığı nedir?</Text>
 
       <View style={styles.options}>
@@ -71,7 +75,8 @@ const styles = StyleSheet.create({
   },
   reviewTagText: { color: '#c7d2fe', fontSize: 12, fontWeight: '700' },
   pos: { color: '#94a3b8', fontSize: 13, marginTop: 12, textTransform: 'uppercase' },
-  word: { color: '#f8fafc', fontSize: 40, fontWeight: '800', marginTop: 4 },
+  wordRow: { flexDirection: 'row', alignItems: 'center', gap: 12, marginTop: 4 },
+  word: { color: '#f8fafc', fontSize: 40, fontWeight: '800' },
   prompt: { color: '#cbd5e1', fontSize: 15, marginTop: 24, marginBottom: 16 },
   options: { gap: 12 },
   option: {
