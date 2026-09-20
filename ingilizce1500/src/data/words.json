@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "word": "the",
+    "pos": "determiner",
+    "level": "A1",
+    "turkish": "belirli tanımlık",
+    "examples": [
+      "The sun is bright today.",
+      "She is reading the book now.",
+      "I live in the United States."
+    ]
+  },
+  {
+    "id": 2,
+    "word": "be",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "olmak",
+    "examples": [
+      "I want to be a doctor.",
+      "She is very happy today.",
+      "They will be here soon."
+    ]
+  },
+  {
+    "id": 3,
+    "word": "a",
+    "pos": "determiner",
+    "level": "A1",
+    "turkish": "bir (belirsiz artikel)",
+    "examples": [
+      "I have a cat.",
+      "She is a teacher.",
+      "Can I get a coffee, please?"
+    ]
+  },
+  {
+    "id": 4,
+    "word": "to",
+    "pos": "preposition",
+    "level": "A1",
+    "turkish": "-e, -a (yön/amaç)",
+    "examples": [
+      "I go to school every day.",
+      "This letter is to my friend.",
+      "We want to learn English."
+    ]
+  },
+  {
+    "id": 5,
+    "word": "of",
+    "pos": "preposition",
+    "level": "A1",
+    "turkish": "-in, -nin (aitlik)",
+    "examples": [
+      "This is the capital of Turkey.",
+      "I drank a cup of tea.",
+      "He is one of my friends."
+    ]
+  },
+  {
+    "id": 6,
+    "word": "and",
+    "pos": "conjunction",
+    "level": "A1",
+    "turkish": "ve",
+    "examples": [
+      "I like tea and coffee.",
+      "She sang and danced all night.",
+      "We bought bread and milk."
+    ]
+  },
+  {
+    "id": 7,
+    "word": "in",
+    "pos": "preposition",
+    "level": "A1",
+    "turkish": "içinde, -de",
+    "examples": [
+      "The keys are in my bag.",
+      "We live in Istanbul.",
+      "She works in a hospital."
+    ]
+  },
+  {
+    "id": 8,
+    "word": "have",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "sahip olmak",
+    "examples": [
+      "I have two brothers.",
+      "Do you have a pen?",
+      "We have breakfast at eight."
+    ]
+  },
+  {
+    "id": 9,
+    "word": "it",
+    "pos": "pronoun",
+    "level": "A1",
+    "turkish": "o (nesne/hayvan için)",
+    "examples": [
+      "I have a dog; it is small.",
+      "It is raining outside.",
+      "Can you fix it, please?"
+    ]
+  },
+  {
+    "id": 10,
+    "word": "i",
+    "pos": "pronoun",
+    "level": "A1",
+    "turkish": "ben",
+    "examples": [
+      "I am a student.",
+      "I live in Ankara.",
+      "I like pizza very much."
+    ]
+  },
+  {
+    "id": 11,
+    "word": "you",
+    "pos": "pronoun",
+    "level": "A1",
+    "turkish": "sen, siz",
+    "examples": [
+      "You are very kind.",
+      "Where do you live?",
+      "I will help you tomorrow."
+    ]
+  },
+  {
+    "id": 12,
+    "word": "he",
+    "pos": "pronoun",
+    "level": "A1",
+    "turkish": "o (erkek)",
+    "examples": [
+      "He is my brother.",
+      "He works at a bank.",
+      "He likes playing football."
+    ]
+  },
+  {
+    "id": 13,
+    "word": "she",
+    "pos": "pronoun",
+    "level": "A1",
+    "turkish": "o (kadın)",
+    "examples": [
+      "She is my sister.",
+      "She studies medicine.",
+      "She lives in London."
+    ]
+  },
+  {
+    "id": 14,
+    "word": "we",
+    "pos": "pronoun",
+    "level": "A1",
+    "turkish": "biz",
+    "examples": [
+      "We are good friends.",
+      "We live in the same city.",
+      "We will travel next month."
+    ]
+  },
+  {
+    "id": 15,
+    "word": "they",
+    "pos": "pronoun",
+    "level": "A1",
+    "turkish": "onlar",
+    "examples": [
+      "They are my classmates.",
+      "They live near the park.",
+      "They went to the market."
+    ]
+  },
+  {
+    "id": 16,
+    "word": "that",
+    "pos": "determiner",
+    "level": "A1",
+    "turkish": "şu, o",
+    "examples": [
+      "That house is very old.",
+      "I think that you are right.",
+      "Can you pass me that book?"
+    ]
+  },
+  {
+    "id": 17,
+    "word": "this",
+    "pos": "determiner",
+    "level": "A1",
+    "turkish": "bu",
+    "examples": [
+      "This is my new phone.",
+      "This coffee is too hot.",
+      "I bought this shirt yesterday."
+    ]
+  },
+  {
+    "id": 18,
+    "word": "for",
+    "pos": "preposition",
+    "level": "A1",
+    "turkish": "için",
+    "examples": [
+      "This gift is for you.",
+      "We waited for the bus.",
+      "She works for a big company."
+    ]
+  },
+  {
+    "id": 19,
+    "word": "with",
+    "pos": "preposition",
+    "level": "A1",
+    "turkish": "ile",
+    "examples": [
+      "I go to school with my friend.",
+      "She writes with a pencil.",
+      "He lives with his family."
+    ]
+  },
+  {
+    "id": 20,
+    "word": "on",
+    "pos": "preposition",
+    "level": "A1",
+    "turkish": "üzerinde, üstünde",
+    "examples": [
+      "The book is on the table.",
+      "The meeting is on Monday.",
+      "She put the cup on the shelf."
+    ]
+  },
+  {
+    "id": 21,
+    "word": "at",
+    "pos": "preposition",
+    "level": "A1",
+    "turkish": "-de (zaman/yer)",
+    "examples": [
+      "We meet at noon.",
+      "She is at school now.",
+      "I will see you at the park."
+    ]
+  },
+  {
+    "id": 22,
+    "word": "do",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "yapmak",
+    "examples": [
+      "What do you do on weekends?",
+      "I do my homework every night.",
+      "Do you speak English?"
+    ]
+  },
+  {
+    "id": 23,
+    "word": "not",
+    "pos": "adverb",
+    "level": "A1",
+    "turkish": "değil",
+    "examples": [
+      "I am not hungry now.",
+      "She does not like coffee.",
+      "This is not my bag."
+    ]
+  },
+  {
+    "id": 24,
+    "word": "but",
+    "pos": "conjunction",
+    "level": "A1",
+    "turkish": "ama, fakat",
+    "examples": [
+      "I like tea, but not coffee.",
+      "She is small but strong.",
+      "He tried, but he failed."
+    ]
+  },
+  {
+    "id": 25,
+    "word": "or",
+    "pos": "conjunction",
+    "level": "A1",
+    "turkish": "veya, ya da",
+    "examples": [
+      "Do you want tea or coffee?",
+      "You can call or text me.",
+      "We can go now or later."
+    ]
+  },
+  {
+    "id": 26,
+    "word": "as",
+    "pos": "conjunction",
+    "level": "A1",
+    "turkish": "gibi, olarak",
+    "examples": [
+      "She works as a nurse.",
+      "As I said, we are late.",
+      "He is as tall as his father."
+    ]
+  },
+  {
+    "id": 27,
+    "word": "what",
+    "pos": "pronoun",
+    "level": "A1",
+    "turkish": "ne",
+    "examples": [
+      "What is your name?",
+      "What time is it?",
+      "I don't know what to do."
+    ]
+  },
+  {
+    "id": 28,
+    "word": "who",
+    "pos": "pronoun",
+    "level": "A1",
+    "turkish": "kim",
+    "examples": [
+      "Who is that man?",
+      "Who wants some tea?",
+      "I know who you are."
+    ]
+  },
+  {
+    "id": 29,
+    "word": "can",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "-ebilmek",
+    "examples": [
+      "I can swim very well.",
+      "Can you help me, please?",
+      "She can speak three languages."
+    ]
+  },
+  {
+    "id": 30,
+    "word": "will",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "-ecek (gelecek zaman)",
+    "examples": [
+      "I will call you tomorrow.",
+      "She will be late today.",
+      "They will travel next week."
+    ]
+  },
+  {
+    "id": 31,
+    "word": "my",
+    "pos": "determiner",
+    "level": "A1",
+    "turkish": "benim",
+    "examples": [
+      "This is my house.",
+      "My sister is a doctor.",
+      "I lost my keys."
+    ]
+  },
+  {
+    "id": 32,
+    "word": "your",
+    "pos": "determiner",
+    "level": "A1",
+    "turkish": "senin, sizin",
+    "examples": [
+      "What is your name?",
+      "Is this your bag?",
+      "Your English is very good."
+    ]
+  },
+  {
+    "id": 33,
+    "word": "his",
+    "pos": "determiner",
+    "level": "A1",
+    "turkish": "onun (erkek)",
+    "examples": [
+      "His car is red.",
+      "He lost his phone.",
+      "His mother is a teacher."
+    ]
+  },
+  {
+    "id": 34,
+    "word": "her",
+    "pos": "determiner",
+    "level": "A1",
+    "turkish": "onun (kadın)",
+    "examples": [
+      "Her name is Ayşe.",
+      "I like her dress.",
+      "Her brother lives abroad."
+    ]
+  },
+  {
+    "id": 35,
+    "word": "our",
+    "pos": "determiner",
+    "level": "A1",
+    "turkish": "bizim",
+    "examples": [
+      "This is our school.",
+      "Our team won the game.",
+      "Our house has a garden."
+    ]
+  },
+  {
+    "id": 36,
+    "word": "their",
+    "pos": "determiner",
+    "level": "A1",
+    "turkish": "onların",
+    "examples": [
+      "This is their car.",
+      "Their house is very big.",
+      "They love their country."
+    ]
+  },
+  {
+    "id": 37,
+    "word": "all",
+    "pos": "determiner",
+    "level": "A1",
+    "turkish": "hepsi, bütün",
+    "examples": [
+      "All students passed the exam.",
+      "I ate all the food.",
+      "All of us were happy."
+    ]
+  },
+  {
+    "id": 38,
+    "word": "one",
+    "pos": "number",
+    "level": "A1",
+    "turkish": "bir",
+    "examples": [
+      "I have one brother.",
+      "One plus one is two.",
+      "She bought one ticket."
+    ]
+  },
+  {
+    "id": 39,
+    "word": "two",
+    "pos": "number",
+    "level": "A1",
+    "turkish": "iki",
+    "examples": [
+      "I have two sisters.",
+      "We waited two hours.",
+      "There are two cups on the table."
+    ]
+  },
+  {
+    "id": 40,
+    "word": "three",
+    "pos": "number",
+    "level": "A1",
+    "turkish": "üç",
+    "examples": [
+      "She has three children.",
+      "We need three chairs.",
+      "The meeting lasts three hours."
+    ]
+  },
+  {
+    "id": 41,
+    "word": "there",
+    "pos": "adverb",
+    "level": "A1",
+    "turkish": "orada",
+    "examples": [
+      "The book is over there.",
+      "There is a cat in the garden.",
+      "We went there last summer."
+    ]
+  },
+  {
+    "id": 42,
+    "word": "here",
+    "pos": "adverb",
+    "level": "A1",
+    "turkish": "burada",
+    "examples": [
+      "Come here, please.",
+      "I live here now.",
+      "Here is your coffee."
+    ]
+  },
+  {
+    "id": 43,
+    "word": "go",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "gitmek",
+    "examples": [
+      "I go to work by bus.",
+      "Let's go to the park.",
+      "She goes to school every day."
+    ]
+  },
+  {
+    "id": 44,
+    "word": "come",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "gelmek",
+    "examples": [
+      "Please come here.",
+      "She will come to the party.",
+      "Winter is coming soon."
+    ]
+  },
+  {
+    "id": 45,
+    "word": "see",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "görmek",
+    "examples": [
+      "I can see the mountains.",
+      "Let's see a movie tonight.",
+      "I will see you tomorrow."
+    ]
+  },
+  {
+    "id": 46,
+    "word": "know",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "bilmek",
+    "examples": [
+      "I know your brother.",
+      "Do you know the answer?",
+      "I don't know what to say."
+    ]
+  },
+  {
+    "id": 47,
+    "word": "get",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "almak, elde etmek",
+    "examples": [
+      "I need to get some milk.",
+      "She got a new job.",
+      "Can you get me a glass of water?"
+    ]
+  },
+  {
+    "id": 48,
+    "word": "make",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "yapmak",
+    "examples": [
+      "She makes delicious cookies.",
+      "This news makes me happy.",
+      "Let's make a plan for tomorrow."
+    ]
+  },
+  {
+    "id": 49,
+    "word": "say",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "söylemek",
+    "examples": [
+      "What did you say?",
+      "She said hello to me.",
+      "He says he is tired."
+    ]
+  },
+  {
+    "id": 50,
+    "word": "like",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "sevmek, hoşlanmak",
+    "examples": [
+      "I like chocolate very much.",
+      "Do you like this song?",
+      "She looks like her mother."
+    ]
+  },
+  {
+    "id": 51,
+    "word": "want",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "istemek",
+    "examples": [
+      "I want a cup of tea.",
+      "She wants to be a singer.",
+      "What do you want for dinner?"
+    ]
+  },
+  {
+    "id": 52,
+    "word": "need",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "ihtiyaç duymak",
+    "examples": [
+      "I need some help.",
+      "We need more time.",
+      "She needs a new phone."
+    ]
+  },
+  {
+    "id": 53,
+    "word": "love",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "sevmek, aşık olmak",
+    "examples": [
+      "I love my family.",
+      "She loves reading books.",
+      "They fell in love last year."
+    ]
+  },
+  {
+    "id": 54,
+    "word": "eat",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "yemek yemek",
+    "examples": [
+      "I eat breakfast at seven.",
+      "Do you eat meat?",
+      "We ate dinner together."
+    ]
+  },
+  {
+    "id": 55,
+    "word": "drink",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "içmek",
+    "examples": [
+      "I drink water every morning.",
+      "She drinks tea with milk.",
+      "Let's drink to your success."
+    ]
+  },
+  {
+    "id": 56,
+    "word": "sleep",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "uyumak",
+    "examples": [
+      "I sleep eight hours a night.",
+      "The baby is sleeping now.",
+      "I couldn't sleep last night."
+    ]
+  },
+  {
+    "id": 57,
+    "word": "live",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "yaşamak",
+    "examples": [
+      "I live in a small town.",
+      "They live near the sea.",
+      "She lives with her parents."
+    ]
+  },
+  {
+    "id": 58,
+    "word": "work",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "çalışmak",
+    "examples": [
+      "I work in an office.",
+      "She works very hard.",
+      "We worked all day yesterday."
+    ]
+  },
+  {
+    "id": 59,
+    "word": "play",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "oynamak",
+    "examples": [
+      "Children love to play outside.",
+      "He plays the guitar well.",
+      "They played football yesterday."
+    ]
+  },
+  {
+    "id": 60,
+    "word": "read",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "okumak",
+    "examples": [
+      "I read a book every week.",
+      "She reads the newspaper daily.",
+      "Can you read this word?"
+    ]
+  },
+  {
+    "id": 61,
+    "word": "write",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "yazmak",
+    "examples": [
+      "I write letters to my friend.",
+      "She writes in her diary every night.",
+      "Please write your name here."
+    ]
+  },
+  {
+    "id": 62,
+    "word": "speak",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "konuşmak",
+    "examples": [
+      "Can you speak English?",
+      "She speaks very softly.",
+      "He spoke to the manager."
+    ]
+  },
+  {
+    "id": 63,
+    "word": "listen",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "dinlemek",
+    "examples": [
+      "I listen to music every day.",
+      "Please listen carefully.",
+      "She listened to his story."
+    ]
+  },
+  {
+    "id": 64,
+    "word": "look",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "bakmak",
+    "examples": [
+      "Look at the beautiful sky.",
+      "She looked out the window.",
+      "This cake looks delicious."
+    ]
+  },
+  {
+    "id": 65,
+    "word": "give",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "vermek",
+    "examples": [
+      "Can you give me the salt?",
+      "She gave him a gift.",
+      "Please give me some time."
+    ]
+  },
+  {
+    "id": 66,
+    "word": "take",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "almak, götürmek",
+    "examples": [
+      "Take a seat, please.",
+      "I will take the bus today.",
+      "It takes ten minutes to walk."
+    ]
+  },
+  {
+    "id": 67,
+    "word": "find",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "bulmak",
+    "examples": [
+      "I can't find my keys.",
+      "She found a good job.",
+      "Let's find a solution together."
+    ]
+  },
+  {
+    "id": 68,
+    "word": "think",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "düşünmek",
+    "examples": [
+      "I think it will rain today.",
+      "What do you think about this?",
+      "She thought about her family."
+    ]
+  },
+  {
+    "id": 69,
+    "word": "feel",
+    "pos": "verb",
+    "level": "A1",
+    "turkish": "hissetmek",
+    "examples": [
+      "I feel tired today.",
+      "She feels happy about the news.",
+      "How do you feel now?"
+    ]
+  },
+  {
+    "id": 70,
+    "word": "good",
+    "pos": "adjective",
+    "level": "A1",
+    "turkish": "iyi",
+    "examples": [
+      "This is a good idea.",
+      "She is a good friend.",
+      "The food tastes good."
+    ]
+  },
+  {
+    "id": 71,
+    "word": "bad",
+    "pos": "adjective",
+    "level": "A1",
+    "turkish": "kötü",
+    "examples": [
+      "That was a bad idea.",
+      "The weather is bad today.",
+      "He felt bad about the mistake."
+    ]
+  },
+  {
+    "id": 72,
+    "word": "big",
+    "pos": "adjective",
+    "level": "A1",
+    "turkish": "büyük",
+    "examples": [
+      "They live in a big house.",
+      "This is a big problem.",
+      "She has big dreams."
+    ]
+  },
+  {
+    "id": 73,
+    "word": "small",
+    "pos": "adjective",
+    "level": "A1",
+    "turkish": "küçük",
+    "examples": [
+      "We have a small kitchen.",
+      "The dog is very small.",
+      "It's a small world."
+    ]
+  },
+  {
+    "id": 74,
+    "word": "new",
+    "pos": "adjective",
+    "level": "A1",
+    "turkish": "yeni",
+    "examples": [
+      "I bought a new car.",
+      "She started a new job.",
+      "This is a new idea."
+    ]
+  },
+  {
+    "id": 75,
+    "word": "old",
+    "pos": "adjective",
+    "level": "A1",
+    "turkish": "eski, yaşlı",
+    "examples": [
+      "My grandfather is very old.",
+      "This is an old building.",
+      "I found my old photos."
+    ]
+  },
+  {
+    "id": 76,
+    "word": "happy",
+    "pos": "adjective",
+    "level": "A1",
+    "turkish": "mutlu",
+    "examples": [
+      "She looks very happy today.",
+      "I am happy to see you.",
+      "They had a happy childhood."
+    ]
+  },
+  {
+    "id": 77,
+    "word": "sad",
+    "pos": "adjective",
+    "level": "A1",
+    "turkish": "üzgün",
+    "examples": [
+      "He felt sad about the news.",
+      "It was a sad movie.",
+      "Don't be sad, everything will be fine."
+    ]
+  },
+  {
+    "id": 78,
+    "word": "hot",
+    "pos": "adjective",
+    "level": "A1",
+    "turkish": "sıcak",
+    "examples": [
+      "It is very hot today.",
+      "Be careful, the soup is hot.",
+      "Summer here is really hot."
+    ]
+  },
+  {
+    "id": 79,
+    "word": "cold",
+    "pos": "adjective",
+    "level": "A1",
+    "turkish": "soğuk",
+    "examples": [
+      "The water is too cold.",
+      "It is cold outside today.",
+      "I caught a cold last week."
+    ]
+  },
+  {
+    "id": 80,
+    "word": "nice",
+    "pos": "adjective",
+    "level": "A1",
+    "turkish": "hoş, güzel",
+    "examples": [
+      "It was nice to meet you.",
+      "That's a nice dress.",
+      "They have a nice house."
+    ]
+  },
+  {
+    "id": 81,
+    "word": "house",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "ev",
+    "examples": [
+      "We bought a new house.",
+      "Their house has a big garden.",
+      "I am cleaning my house today."
+    ]
+  },
+  {
+    "id": 82,
+    "word": "water",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "su",
+    "examples": [
+      "Can I have some water?",
+      "The water is very cold.",
+      "Plants need water to grow."
+    ]
+  },
+  {
+    "id": 83,
+    "word": "time",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "zaman",
+    "examples": [
+      "What time is it now?",
+      "I don't have much time.",
+      "We spent time with our family."
+    ]
+  },
+  {
+    "id": 84,
+    "word": "day",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "gün",
+    "examples": [
+      "Have a nice day!",
+      "I work five days a week.",
+      "Today is a sunny day."
+    ]
+  },
+  {
+    "id": 85,
+    "word": "year",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "yıl, sene",
+    "examples": [
+      "I was born in this year.",
+      "She studies for four years.",
+      "Happy New Year!"
+    ]
+  },
+  {
+    "id": 86,
+    "word": "man",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "adam",
+    "examples": [
+      "That man is my uncle.",
+      "A young man opened the door.",
+      "He is a kind man."
+    ]
+  },
+  {
+    "id": 87,
+    "word": "woman",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "kadın",
+    "examples": [
+      "The woman is a doctor.",
+      "She is a strong woman.",
+      "A woman called you earlier."
+    ]
+  },
+  {
+    "id": 88,
+    "word": "child",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "çocuk",
+    "examples": [
+      "The child is playing outside.",
+      "Every child needs love.",
+      "She raised her child alone."
+    ]
+  },
+  {
+    "id": 89,
+    "word": "friend",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "arkadaş",
+    "examples": [
+      "She is my best friend.",
+      "I made new friends at school.",
+      "He helped his friend move."
+    ]
+  },
+  {
+    "id": 90,
+    "word": "family",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "aile",
+    "examples": [
+      "I love my family.",
+      "We had a family dinner.",
+      "Her family lives in Izmir."
+    ]
+  },
+  {
+    "id": 91,
+    "word": "food",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "yiyecek, yemek",
+    "examples": [
+      "The food here is delicious.",
+      "We need to buy food.",
+      "She cooked food for the party."
+    ]
+  },
+  {
+    "id": 92,
+    "word": "school",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "okul",
+    "examples": [
+      "My children go to school.",
+      "The school starts at eight.",
+      "She teaches at a school."
+    ]
+  },
+  {
+    "id": 93,
+    "word": "book",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "kitap",
+    "examples": [
+      "I am reading a good book.",
+      "She wrote a book about travel.",
+      "Please book a table for two."
+    ]
+  },
+  {
+    "id": 94,
+    "word": "name",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "isim",
+    "examples": [
+      "What is your name?",
+      "Please write your name here.",
+      "They named the baby Ali."
+    ]
+  },
+  {
+    "id": 95,
+    "word": "money",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "para",
+    "examples": [
+      "I don't have much money.",
+      "She saved money for a trip.",
+      "He spent all his money."
+    ]
+  },
+  {
+    "id": 96,
+    "word": "city",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "şehir",
+    "examples": [
+      "Istanbul is a big city.",
+      "I love this city.",
+      "They moved to a new city."
+    ]
+  },
+  {
+    "id": 97,
+    "word": "country",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "ülke",
+    "examples": [
+      "Turkey is a beautiful country.",
+      "Which country are you from?",
+      "They traveled to another country."
+    ]
+  },
+  {
+    "id": 98,
+    "word": "world",
+    "pos": "noun",
+    "level": "A1",
+    "turkish": "dünya",
+    "examples": [
+      "She wants to travel the world.",
+      "This is the best food in the world.",
+      "The world is changing fast."
+    ]
+  },
+  {
+    "id": 99,
+    "word": "today",
+    "pos": "adverb",
+    "level": "A1",
+    "turkish": "bugün",
+    "examples": [
+      "I am busy today.",
+      "Today is my birthday.",
+      "We will meet today."
+    ]
+  },
+  {
+    "id": 100,
+    "word": "now",
+    "pos": "adverb",
+    "level": "A1",
+    "turkish": "şimdi",
+    "examples": [
+      "I have to go now.",
+      "She is at work now.",
+      "Now is the perfect time."
+    ]
+  },
+  {
+    "id": 101,
+    "word": "yesterday",
+    "pos": "adverb",
+    "level": "A2",
+    "turkish": "dün",
+    "examples": [
+      "I met her yesterday.",
+      "It rained yesterday.",
+      "We watched a movie yesterday."
+    ]
+  },
+  {
+    "id": 102,
+    "word": "tomorrow",
+    "pos": "adverb",
+    "level": "A2",
+    "turkish": "yarın",
+    "examples": [
+      "I will call you tomorrow.",
+      "The meeting is tomorrow.",
+      "See you tomorrow!"
+    ]
+  },
+  {
+    "id": 103,
+    "word": "always",
+    "pos": "adverb",
+    "level": "A2",
+    "turkish": "her zaman",
+    "examples": [
+      "She always arrives on time.",
+      "I always drink coffee in the morning.",
+      "He is always kind to others."
+    ]
+  },
+  {
+    "id": 104,
+    "word": "never",
+    "pos": "adverb",
+    "level": "A2",
+    "turkish": "asla, hiç",
+    "examples": [
+      "I never eat fast food.",
+      "She has never been abroad.",
+      "Never give up on your dreams."
+    ]
+  },
+  {
+    "id": 105,
+    "word": "sometimes",
+    "pos": "adverb",
+    "level": "A2",
+    "turkish": "bazen",
+    "examples": [
+      "I sometimes work on weekends.",
+      "Sometimes she calls me at night.",
+      "We sometimes eat out."
+    ]
+  },
+  {
+    "id": 106,
+    "word": "often",
+    "pos": "adverb",
+    "level": "A2",
+    "turkish": "sık sık",
+    "examples": [
+      "I often go to the gym.",
+      "She often visits her parents.",
+      "It often rains in autumn."
+    ]
+  },
+  {
+    "id": 107,
+    "word": "morning",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "sabah",
+    "examples": [
+      "I run every morning.",
+      "Good morning, everyone!",
+      "The meeting is in the morning."
+    ]
+  },
+  {
+    "id": 108,
+    "word": "night",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "gece",
+    "examples": [
+      "I read before I sleep at night.",
+      "We had a great night.",
+      "The stars shine at night."
+    ]
+  },
+  {
+    "id": 109,
+    "word": "week",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "hafta",
+    "examples": [
+      "I work five days a week.",
+      "See you next week.",
+      "This week was very busy."
+    ]
+  },
+  {
+    "id": 110,
+    "word": "month",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "ay",
+    "examples": [
+      "We are getting married next month.",
+      "This is her first month at work.",
+      "It rained a lot this month."
+    ]
+  },
+  {
+    "id": 111,
+    "word": "hour",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "saat (süre)",
+    "examples": [
+      "The flight takes three hours.",
+      "I waited for an hour.",
+      "She studies for an hour every day."
+    ]
+  },
+  {
+    "id": 112,
+    "word": "minute",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "dakika",
+    "examples": [
+      "Wait a minute, please.",
+      "It takes ten minutes to walk there.",
+      "The meeting starts in five minutes."
+    ]
+  },
+  {
+    "id": 113,
+    "word": "car",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "araba",
+    "examples": [
+      "He drives a new car.",
+      "We traveled by car.",
+      "My car broke down yesterday."
+    ]
+  },
+  {
+    "id": 114,
+    "word": "bus",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "otobüs",
+    "examples": [
+      "I take the bus to work.",
+      "The bus was late today.",
+      "She missed the last bus."
+    ]
+  },
+  {
+    "id": 115,
+    "word": "train",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "tren",
+    "examples": [
+      "We traveled to Paris by train.",
+      "The train arrives at noon.",
+      "He missed his train this morning."
+    ]
+  },
+  {
+    "id": 116,
+    "word": "road",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "yol",
+    "examples": [
+      "This road leads to the city center.",
+      "Be careful crossing the road.",
+      "The road was closed for repairs."
+    ]
+  },
+  {
+    "id": 117,
+    "word": "shop",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "dükkan",
+    "examples": [
+      "There is a small shop nearby.",
+      "She works in a flower shop.",
+      "I bought bread at the shop."
+    ]
+  },
+  {
+    "id": 118,
+    "word": "market",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "pazar, market",
+    "examples": [
+      "We buy vegetables at the market.",
+      "The stock market fell today.",
+      "There is a big market on Sundays."
+    ]
+  },
+  {
+    "id": 119,
+    "word": "job",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "iş",
+    "examples": [
+      "She found a new job.",
+      "He does a great job at work.",
+      "I am looking for a job."
+    ]
+  },
+  {
+    "id": 120,
+    "word": "teacher",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "öğretmen",
+    "examples": [
+      "My teacher is very kind.",
+      "She wants to be a teacher.",
+      "The teacher explained the lesson well."
+    ]
+  },
+  {
+    "id": 121,
+    "word": "student",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "öğrenci",
+    "examples": [
+      "He is a university student.",
+      "The students study hard for exams.",
+      "She was a good student."
+    ]
+  },
+  {
+    "id": 122,
+    "word": "doctor",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "doktor",
+    "examples": [
+      "I need to see a doctor.",
+      "The doctor gave me some medicine.",
+      "She works as a doctor."
+    ]
+  },
+  {
+    "id": 123,
+    "word": "hospital",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "hastane",
+    "examples": [
+      "He was taken to the hospital.",
+      "She works at a hospital.",
+      "The hospital is near my house."
+    ]
+  },
+  {
+    "id": 124,
+    "word": "phone",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "telefon",
+    "examples": [
+      "I lost my phone yesterday.",
+      "Can I use your phone?",
+      "She called me on the phone."
+    ]
+  },
+  {
+    "id": 125,
+    "word": "computer",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "bilgisayar",
+    "examples": [
+      "I work on my computer every day.",
+      "The computer is very slow.",
+      "She bought a new computer."
+    ]
+  },
+  {
+    "id": 126,
+    "word": "internet",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "internet",
+    "examples": [
+      "The internet is very fast here.",
+      "I searched for it on the internet.",
+      "We don't have internet at home."
+    ]
+  },
+  {
+    "id": 127,
+    "word": "letter",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "mektup",
+    "examples": [
+      "She wrote a letter to her friend.",
+      "I received a letter today.",
+      "He sent a love letter."
+    ]
+  },
+  {
+    "id": 128,
+    "word": "door",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "kapı",
+    "examples": [
+      "Please close the door.",
+      "Someone knocked on the door.",
+      "The door was open."
+    ]
+  },
+  {
+    "id": 129,
+    "word": "window",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "pencere",
+    "examples": [
+      "Open the window, please.",
+      "She looked out the window.",
+      "The window is broken."
+    ]
+  },
+  {
+    "id": 130,
+    "word": "room",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "oda",
+    "examples": [
+      "This is my bedroom.",
+      "The room is very clean.",
+      "We booked a room for two nights."
+    ]
+  },
+  {
+    "id": 131,
+    "word": "table",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "masa",
+    "examples": [
+      "Put the plates on the table.",
+      "We sat at a small table.",
+      "She set the table for dinner."
+    ]
+  },
+  {
+    "id": 132,
+    "word": "chair",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "sandalye",
+    "examples": [
+      "Please sit on this chair.",
+      "The chair is broken.",
+      "He pulled up a chair."
+    ]
+  },
+  {
+    "id": 133,
+    "word": "bed",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "yatak",
+    "examples": [
+      "I go to bed at ten.",
+      "The bed is very comfortable.",
+      "She made the bed this morning."
+    ]
+  },
+  {
+    "id": 134,
+    "word": "kitchen",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "mutfak",
+    "examples": [
+      "She is cooking in the kitchen.",
+      "Our kitchen is small but nice.",
+      "He cleaned the kitchen."
+    ]
+  },
+  {
+    "id": 135,
+    "word": "clothes",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "kıyafetler",
+    "examples": [
+      "I need to buy new clothes.",
+      "She washed the clothes.",
+      "These clothes are too small."
+    ]
+  },
+  {
+    "id": 136,
+    "word": "shoe",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "ayakkabı",
+    "examples": [
+      "I need new shoes for winter.",
+      "Her shoes are very comfortable.",
+      "He wore black shoes."
+    ]
+  },
+  {
+    "id": 137,
+    "word": "color",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "renk",
+    "examples": [
+      "What color do you like?",
+      "The dress comes in many colors.",
+      "Blue is my favorite color."
+    ]
+  },
+  {
+    "id": 138,
+    "word": "animal",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "hayvan",
+    "examples": [
+      "The zoo has many animals.",
+      "Dogs are friendly animals.",
+      "She loves animals very much."
+    ]
+  },
+  {
+    "id": 139,
+    "word": "dog",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "köpek",
+    "examples": [
+      "I have a small dog.",
+      "The dog is barking loudly.",
+      "We walked the dog in the park."
+    ]
+  },
+  {
+    "id": 140,
+    "word": "cat",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "kedi",
+    "examples": [
+      "My cat sleeps all day.",
+      "The cat caught a mouse.",
+      "She adopted a cat last week."
+    ]
+  },
+  {
+    "id": 141,
+    "word": "bird",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "kuş",
+    "examples": [
+      "A bird is singing outside.",
+      "Birds fly south in winter.",
+      "We watched the birds in the park."
+    ]
+  },
+  {
+    "id": 142,
+    "word": "tree",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "ağaç",
+    "examples": [
+      "There is a big tree in the garden.",
+      "We planted a tree last year.",
+      "The tree lost its leaves."
+    ]
+  },
+  {
+    "id": 143,
+    "word": "flower",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "çiçek",
+    "examples": [
+      "She gave me a beautiful flower.",
+      "Flowers bloom in spring.",
+      "He bought flowers for his mother."
+    ]
+  },
+  {
+    "id": 144,
+    "word": "sun",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "güneş",
+    "examples": [
+      "The sun is shining today.",
+      "We sat in the sun.",
+      "The sun rises in the east."
+    ]
+  },
+  {
+    "id": 145,
+    "word": "moon",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "ay (gök cismi)",
+    "examples": [
+      "The moon is bright tonight.",
+      "We could see the moon clearly.",
+      "The moon orbits the Earth."
+    ]
+  },
+  {
+    "id": 146,
+    "word": "sky",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "gökyüzü",
+    "examples": [
+      "The sky is blue today.",
+      "Stars appear in the sky at night.",
+      "Dark clouds filled the sky."
+    ]
+  },
+  {
+    "id": 147,
+    "word": "rain",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "yağmur",
+    "examples": [
+      "We walked in the rain.",
+      "The rain stopped an hour ago.",
+      "Heavy rain is expected tomorrow."
+    ]
+  },
+  {
+    "id": 148,
+    "word": "snow",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "kar",
+    "examples": [
+      "The mountains are covered with snow.",
+      "Children love playing in the snow.",
+      "It snowed all night."
+    ]
+  },
+  {
+    "id": 149,
+    "word": "wind",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "rüzgar",
+    "examples": [
+      "The wind is very strong today.",
+      "A cold wind blew through the city.",
+      "The wind knocked over the chair."
+    ]
+  },
+  {
+    "id": 150,
+    "word": "weather",
+    "pos": "noun",
+    "level": "A2",
+    "turkish": "hava durumu",
+    "examples": [
+      "The weather is nice today.",
+      "What's the weather like tomorrow?",
+      "We enjoyed the sunny weather."
+    ]
+  },
+  {
+    "id": 151,
+    "word": "fast",
+    "pos": "adjective",
+    "level": "A2",
+    "turkish": "hızlı",
+    "examples": [
+      "He is a fast runner.",
+      "This is a very fast car.",
+      "She types very fast."
+    ]
+  },
+  {
+    "id": 152,
+    "word": "slow",
+    "pos": "adjective",
+    "level": "A2",
+    "turkish": "yavaş",
+    "examples": [
+      "The internet here is very slow.",
+      "He walks at a slow pace.",
+      "This is a slow process."
+    ]
+  },
+  {
+    "id": 153,
+    "word": "easy",
+    "pos": "adjective",
+    "level": "A2",
+    "turkish": "kolay",
+    "examples": [
+      "This exam was very easy.",
+      "It's easy to learn English.",
+      "Cooking pasta is easy."
+    ]
+  },
+  {
+    "id": 154,
+    "word": "difficult",
+    "pos": "adjective",
+    "level": "A2",
+    "turkish": "zor",
+    "examples": [
+      "This question is very difficult.",
+      "It was a difficult decision.",
+      "Learning a new language can be difficult."
+    ]
+  },
+  {
+    "id": 155,
+    "word": "strong",
+    "pos": "adjective",
+    "level": "A2",
+    "turkish": "güçlü",
+    "examples": [
+      "He is very strong.",
+      "There was a strong wind last night.",
+      "She has a strong opinion about this."
+    ]
+  },
+  {
+    "id": 156,
+    "word": "weak",
+    "pos": "adjective",
+    "level": "A2",
+    "turkish": "zayıf",
+    "examples": [
+      "He felt weak after being sick.",
+      "The signal is very weak here.",
+      "Her argument was weak."
+    ]
+  },
+  {
+    "id": 157,
+    "word": "young",
+    "pos": "adjective",
+    "level": "A2",
+    "turkish": "genç",
+    "examples": [
+      "She is still very young.",
+      "Young people love new technology.",
+      "He looks young for his age."
+    ]
+  },
+  {
+    "id": 158,
+    "word": "beautiful",
+    "pos": "adjective",
+    "level": "A2",
+    "turkish": "güzel",
+    "examples": [
+      "What a beautiful view!",
+      "She has a beautiful voice.",
+      "It was a beautiful sunny day."
+    ]
+  },
+  {
+    "id": 159,
+    "word": "clean",
+    "pos": "adjective",
+    "level": "A2",
+    "turkish": "temiz",
+    "examples": [
+      "The kitchen is very clean.",
+      "Please keep your room clean.",
+      "We drink clean water every day."
+    ]
+  },
+  {
+    "id": 160,
+    "word": "dirty",
+    "pos": "adjective",
+    "level": "A2",
+    "turkish": "kirli",
+    "examples": [
+      "Your shoes are very dirty.",
+      "He washed the dirty dishes.",
+      "The street was dirty after the rain."
+    ]
+  },
+  {
+    "id": 161,
+    "word": "open",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "açmak",
+    "examples": [
+      "Please open the door.",
+      "The shop opens at nine.",
+      "She opened her eyes slowly."
+    ]
+  },
+  {
+    "id": 162,
+    "word": "close",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "kapatmak",
+    "examples": [
+      "Please close the window.",
+      "The shop closes at eight.",
+      "He closed his eyes and rested."
+    ]
+  },
+  {
+    "id": 163,
+    "word": "buy",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "satın almak",
+    "examples": [
+      "I need to buy some milk.",
+      "She bought a new dress.",
+      "We bought this house last year."
+    ]
+  },
+  {
+    "id": 164,
+    "word": "sell",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "satmak",
+    "examples": [
+      "They sell fresh vegetables here.",
+      "She sold her old car.",
+      "This shop sells books and magazines."
+    ]
+  },
+  {
+    "id": 165,
+    "word": "pay",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "ödemek",
+    "examples": [
+      "I will pay for the dinner.",
+      "She pays her bills online.",
+      "How much did you pay for this?"
+    ]
+  },
+  {
+    "id": 166,
+    "word": "cook",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "pişirmek",
+    "examples": [
+      "I like to cook on weekends.",
+      "She cooked dinner for us.",
+      "He is cooking pasta right now."
+    ]
+  },
+  {
+    "id": 167,
+    "word": "wash",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "yıkamak",
+    "examples": [
+      "I need to wash my hands.",
+      "She washes the car every week.",
+      "He washed the dishes after dinner."
+    ]
+  },
+  {
+    "id": 168,
+    "word": "wear",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "giymek",
+    "examples": [
+      "She wears a uniform to work.",
+      "I always wear a coat in winter.",
+      "He was wearing a blue shirt."
+    ]
+  },
+  {
+    "id": 169,
+    "word": "help",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "yardım etmek",
+    "examples": [
+      "Can you help me, please?",
+      "She helps her mother at home.",
+      "They helped us move the furniture."
+    ]
+  },
+  {
+    "id": 170,
+    "word": "wait",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "beklemek",
+    "examples": [
+      "Please wait for me here.",
+      "We waited an hour for the bus.",
+      "She is waiting for good news."
+    ]
+  },
+  {
+    "id": 171,
+    "word": "start",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "başlamak",
+    "examples": [
+      "The movie starts at seven.",
+      "She started a new job.",
+      "Let's start the meeting now."
+    ]
+  },
+  {
+    "id": 172,
+    "word": "stop",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "durmak",
+    "examples": [
+      "The bus stopped suddenly.",
+      "Please stop talking.",
+      "She stopped smoking last year."
+    ]
+  },
+  {
+    "id": 173,
+    "word": "finish",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "bitirmek",
+    "examples": [
+      "I finished my homework early.",
+      "She finished the race first.",
+      "We finished dinner at nine."
+    ]
+  },
+  {
+    "id": 174,
+    "word": "begin",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "başlamak",
+    "examples": [
+      "The class begins at nine.",
+      "Let's begin the meeting.",
+      "The story begins in a small village."
+    ]
+  },
+  {
+    "id": 175,
+    "word": "remember",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "hatırlamak",
+    "examples": [
+      "I can't remember his name.",
+      "Do you remember our first meeting?",
+      "She remembered to lock the door."
+    ]
+  },
+  {
+    "id": 176,
+    "word": "forget",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "unutmak",
+    "examples": [
+      "Don't forget your keys.",
+      "I forgot her birthday.",
+      "He often forgets to call back."
+    ]
+  },
+  {
+    "id": 177,
+    "word": "understand",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "anlamak",
+    "examples": [
+      "I don't understand this question.",
+      "She understands English very well.",
+      "Do you understand what I mean?"
+    ]
+  },
+  {
+    "id": 178,
+    "word": "learn",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "öğrenmek",
+    "examples": [
+      "I want to learn English.",
+      "She learned to swim last summer.",
+      "Children learn quickly."
+    ]
+  },
+  {
+    "id": 179,
+    "word": "teach",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "öğretmek",
+    "examples": [
+      "She teaches math at school.",
+      "He taught me how to drive.",
+      "I want to teach children."
+    ]
+  },
+  {
+    "id": 180,
+    "word": "study",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "çalışmak, ders çalışmak",
+    "examples": [
+      "I study English every day.",
+      "She studies medicine at university.",
+      "We studied for the exam together."
+    ]
+  },
+  {
+    "id": 181,
+    "word": "travel",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "seyahat etmek",
+    "examples": [
+      "I love to travel abroad.",
+      "They traveled to Japan last year.",
+      "We are traveling by train."
+    ]
+  },
+  {
+    "id": 182,
+    "word": "visit",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "ziyaret etmek",
+    "examples": [
+      "I visited my grandmother yesterday.",
+      "We plan to visit Paris.",
+      "She visits the doctor every month."
+    ]
+  },
+  {
+    "id": 183,
+    "word": "arrive",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "varmak",
+    "examples": [
+      "The train arrives at noon.",
+      "We arrived home late.",
+      "She arrived before everyone else."
+    ]
+  },
+  {
+    "id": 184,
+    "word": "leave",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "ayrılmak, terk etmek",
+    "examples": [
+      "I have to leave now.",
+      "She left the office early.",
+      "The train leaves in ten minutes."
+    ]
+  },
+  {
+    "id": 185,
+    "word": "walk",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "yürümek",
+    "examples": [
+      "I walk to work every day.",
+      "We walked along the beach.",
+      "She walks her dog every morning."
+    ]
+  },
+  {
+    "id": 186,
+    "word": "run",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "koşmak",
+    "examples": [
+      "He runs five miles every morning.",
+      "The children ran in the park.",
+      "She had to run to catch the bus."
+    ]
+  },
+  {
+    "id": 187,
+    "word": "drive",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "araba sürmek",
+    "examples": [
+      "I drive to work every day.",
+      "She drove to the airport.",
+      "He is learning to drive."
+    ]
+  },
+  {
+    "id": 188,
+    "word": "fly",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "uçmak",
+    "examples": [
+      "Birds fly south in winter.",
+      "We flew to London last month.",
+      "She is afraid of flying."
+    ]
+  },
+  {
+    "id": 189,
+    "word": "swim",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "yüzmek",
+    "examples": [
+      "I swim every weekend.",
+      "She swims very fast.",
+      "We swam in the sea."
+    ]
+  },
+  {
+    "id": 190,
+    "word": "dance",
+    "pos": "verb",
+    "level": "A2",
+    "turkish": "dans etmek",
+    "examples": [
+      "They danced all night.",
+      "She dances beautifully.",
+      "We learned to dance together."
+    ]
+  },
+  {
+    "id": 191,
+    "word": "decide",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "karar vermek",
+    "examples": [
+      "I decided to study abroad.",
+      "We need to decide today.",
+      "She couldn't decide what to wear."
+    ]
+  },
+  {
+    "id": 192,
+    "word": "believe",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "inanmak",
+    "examples": [
+      "I believe you are right.",
+      "She believes in hard work.",
+      "Do you believe in ghosts?"
+    ]
+  },
+  {
+    "id": 193,
+    "word": "hope",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "ummak",
+    "examples": [
+      "I hope you feel better soon.",
+      "We hope to visit next year.",
+      "She hopes for good news."
+    ]
+  },
+  {
+    "id": 194,
+    "word": "agree",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "katılmak, hemfikir olmak",
+    "examples": [
+      "I agree with your opinion.",
+      "They agreed to meet on Friday.",
+      "We finally agreed on a price."
+    ]
+  },
+  {
+    "id": 195,
+    "word": "disagree",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "katılmamak",
+    "examples": [
+      "I disagree with this decision.",
+      "They often disagree about politics.",
+      "She disagreed with her boss."
+    ]
+  },
+  {
+    "id": 196,
+    "word": "explain",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "açıklamak",
+    "examples": [
+      "Can you explain this rule to me?",
+      "She explained the problem clearly.",
+      "He explained why he was late."
+    ]
+  },
+  {
+    "id": 197,
+    "word": "describe",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "tanımlamak, betimlemek",
+    "examples": [
+      "Can you describe the man you saw?",
+      "She described her trip in detail.",
+      "Please describe your ideal job."
+    ]
+  },
+  {
+    "id": 198,
+    "word": "suggest",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "önermek",
+    "examples": [
+      "I suggest we leave early.",
+      "She suggested a new restaurant.",
+      "He suggested changing the plan."
+    ]
+  },
+  {
+    "id": 199,
+    "word": "offer",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "teklif etmek",
+    "examples": [
+      "She offered me a cup of tea.",
+      "The company offered him a better salary.",
+      "He offered to help us."
+    ]
+  },
+  {
+    "id": 200,
+    "word": "invite",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "davet etmek",
+    "examples": [
+      "We invited them to the wedding.",
+      "She invited her friends for dinner.",
+      "He was invited to speak at the event."
+    ]
+  },
+  {
+    "id": 201,
+    "word": "promise",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "söz vermek",
+    "examples": [
+      "I promise to call you tonight.",
+      "She promised to help us.",
+      "He kept his promise."
+    ]
+  },
+  {
+    "id": 202,
+    "word": "refuse",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "reddetmek",
+    "examples": [
+      "He refused to answer the question.",
+      "She refused the offer.",
+      "They refused to leave the room."
+    ]
+  },
+  {
+    "id": 203,
+    "word": "improve",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "geliştirmek, iyileştirmek",
+    "examples": [
+      "I want to improve my English.",
+      "The company improved its products.",
+      "Her health has improved recently."
+    ]
+  },
+  {
+    "id": 204,
+    "word": "develop",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "geliştirmek",
+    "examples": [
+      "The city is developing quickly.",
+      "She developed a new skill.",
+      "They developed a new app together."
+    ]
+  },
+  {
+    "id": 205,
+    "word": "continue",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "devam etmek",
+    "examples": [
+      "Please continue with your work.",
+      "The rain continued all night.",
+      "She continued studying after dinner."
+    ]
+  },
+  {
+    "id": 206,
+    "word": "change",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "değiştirmek",
+    "examples": [
+      "I need to change my plans.",
+      "The weather changed suddenly.",
+      "She changed her mind about the job."
+    ]
+  },
+  {
+    "id": 207,
+    "word": "increase",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "artırmak, artmak",
+    "examples": [
+      "Prices increased last month.",
+      "We need to increase our sales.",
+      "Her confidence increased over time."
+    ]
+  },
+  {
+    "id": 208,
+    "word": "decrease",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "azaltmak, azalmak",
+    "examples": [
+      "Sales decreased this year.",
+      "We should decrease our spending.",
+      "The pain slowly decreased."
+    ]
+  },
+  {
+    "id": 209,
+    "word": "provide",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "sağlamak",
+    "examples": [
+      "The hotel provides free breakfast.",
+      "She provided useful information.",
+      "The company provides good training."
+    ]
+  },
+  {
+    "id": 210,
+    "word": "require",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "gerektirmek",
+    "examples": [
+      "This job requires experience.",
+      "The task requires patience.",
+      "You are required to wear a badge."
+    ]
+  },
+  {
+    "id": 211,
+    "word": "allow",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "izin vermek",
+    "examples": [
+      "Smoking is not allowed here.",
+      "My parents allowed me to travel alone.",
+      "The rules allow one guest per room."
+    ]
+  },
+  {
+    "id": 212,
+    "word": "prevent",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "önlemek",
+    "examples": [
+      "Exercise can prevent many illnesses.",
+      "We must prevent this from happening again.",
+      "The fence prevents accidents."
+    ]
+  },
+  {
+    "id": 213,
+    "word": "avoid",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "kaçınmak",
+    "examples": [
+      "I try to avoid junk food.",
+      "She avoided talking about the problem.",
+      "We avoided the traffic by leaving early."
+    ]
+  },
+  {
+    "id": 214,
+    "word": "achieve",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "başarmak",
+    "examples": [
+      "She achieved her goal at last.",
+      "We achieved great results this year.",
+      "He worked hard to achieve success."
+    ]
+  },
+  {
+    "id": 215,
+    "word": "succeed",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "başarılı olmak",
+    "examples": [
+      "She succeeded in passing the exam.",
+      "Hard work helps you succeed.",
+      "He finally succeeded after many attempts."
+    ]
+  },
+  {
+    "id": 216,
+    "word": "fail",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "başarısız olmak",
+    "examples": [
+      "I failed my driving test.",
+      "The plan failed completely.",
+      "Don't be afraid to fail."
+    ]
+  },
+  {
+    "id": 217,
+    "word": "attempt",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "girişimde bulunmak",
+    "examples": [
+      "She attempted to solve the puzzle.",
+      "He attempted the exam twice.",
+      "They attempted a difficult climb."
+    ]
+  },
+  {
+    "id": 218,
+    "word": "imagine",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "hayal etmek",
+    "examples": [
+      "Imagine living on a beach.",
+      "I can't imagine life without you.",
+      "She imagined a better future."
+    ]
+  },
+  {
+    "id": 219,
+    "word": "compare",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "karşılaştırmak",
+    "examples": [
+      "Let's compare these two options.",
+      "She compared the prices online.",
+      "You shouldn't compare yourself to others."
+    ]
+  },
+  {
+    "id": 220,
+    "word": "discover",
+    "pos": "verb",
+    "level": "B1",
+    "turkish": "keşfetmek",
+    "examples": [
+      "Scientists discovered a new species.",
+      "I discovered a great café nearby.",
+      "She discovered her passion for art."
+    ]
+  },
+  {
+    "id": 221,
+    "word": "experience",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "deneyim",
+    "examples": [
+      "She has a lot of work experience.",
+      "It was an amazing experience.",
+      "Travel gives you valuable experience."
+    ]
+  },
+  {
+    "id": 222,
+    "word": "opportunity",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "fırsat",
+    "examples": [
+      "This job is a great opportunity.",
+      "I had the opportunity to study abroad.",
+      "Don't miss this opportunity."
+    ]
+  },
+  {
+    "id": 223,
+    "word": "result",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "sonuç",
+    "examples": [
+      "The exam results were excellent.",
+      "As a result, we changed our plan.",
+      "She got the result she wanted."
+    ]
+  },
+  {
+    "id": 224,
+    "word": "reason",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "sebep",
+    "examples": [
+      "What is the reason for your absence?",
+      "There is a good reason for this.",
+      "She had no reason to worry."
+    ]
+  },
+  {
+    "id": 225,
+    "word": "purpose",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "amaç",
+    "examples": [
+      "What is the purpose of this meeting?",
+      "She did it on purpose.",
+      "Our purpose is to help others."
+    ]
+  },
+  {
+    "id": 226,
+    "word": "problem",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "sorun",
+    "examples": [
+      "We have a serious problem.",
+      "She solved the math problem easily.",
+      "There is no problem with the plan."
+    ]
+  },
+  {
+    "id": 227,
+    "word": "solution",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "çözüm",
+    "examples": [
+      "We found a good solution.",
+      "There is no easy solution to this.",
+      "Her solution saved us time."
+    ]
+  },
+  {
+    "id": 228,
+    "word": "decision",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "karar",
+    "examples": [
+      "She made a difficult decision.",
+      "It was the right decision.",
+      "We need to make a decision soon."
+    ]
+  },
+  {
+    "id": 229,
+    "word": "opinion",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "fikir, görüş",
+    "examples": [
+      "What is your opinion on this?",
+      "In my opinion, she is right.",
+      "Everyone has a different opinion."
+    ]
+  },
+  {
+    "id": 230,
+    "word": "information",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "bilgi",
+    "examples": [
+      "I need more information about the job.",
+      "She gave us useful information.",
+      "This website has a lot of information."
+    ]
+  },
+  {
+    "id": 231,
+    "word": "knowledge",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "bilgi (birikim)",
+    "examples": [
+      "He has great knowledge of history.",
+      "Her knowledge of English is impressive.",
+      "Reading increases your knowledge."
+    ]
+  },
+  {
+    "id": 232,
+    "word": "skill",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "beceri",
+    "examples": [
+      "Cooking is a useful skill.",
+      "She has excellent communication skills.",
+      "He learned new skills at work."
+    ]
+  },
+  {
+    "id": 233,
+    "word": "ability",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "yetenek",
+    "examples": [
+      "She has the ability to lead a team.",
+      "His ability to solve problems is impressive.",
+      "Everyone has different abilities."
+    ]
+  },
+  {
+    "id": 234,
+    "word": "advantage",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "avantaj",
+    "examples": [
+      "Speaking English is a big advantage.",
+      "There are many advantages to this plan.",
+      "She took advantage of the opportunity."
+    ]
+  },
+  {
+    "id": 235,
+    "word": "disadvantage",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "dezavantaj",
+    "examples": [
+      "Every choice has some disadvantages.",
+      "The main disadvantage is the cost.",
+      "There is one big disadvantage to this plan."
+    ]
+  },
+  {
+    "id": 236,
+    "word": "environment",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "çevre",
+    "examples": [
+      "We must protect the environment.",
+      "She works in a friendly environment.",
+      "Pollution harms the environment."
+    ]
+  },
+  {
+    "id": 237,
+    "word": "society",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "toplum",
+    "examples": [
+      "Education is important for society.",
+      "We live in a modern society.",
+      "Every society has its own rules."
+    ]
+  },
+  {
+    "id": 238,
+    "word": "government",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "hükümet",
+    "examples": [
+      "The government announced new rules.",
+      "She works for the local government.",
+      "The government raised taxes this year."
+    ]
+  },
+  {
+    "id": 239,
+    "word": "economy",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "ekonomi",
+    "examples": [
+      "The economy is growing fast.",
+      "This will affect the national economy.",
+      "A strong economy creates more jobs."
+    ]
+  },
+  {
+    "id": 240,
+    "word": "business",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "iş, ticaret",
+    "examples": [
+      "She started her own business.",
+      "He is good at business.",
+      "They discussed business over lunch."
+    ]
+  },
+  {
+    "id": 241,
+    "word": "company",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "şirket",
+    "examples": [
+      "He works for a big company.",
+      "The company hired ten new employees.",
+      "She started her own company."
+    ]
+  },
+  {
+    "id": 242,
+    "word": "industry",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "sanayi, sektör",
+    "examples": [
+      "He works in the tech industry.",
+      "The car industry is growing fast.",
+      "This industry needs skilled workers."
+    ]
+  },
+  {
+    "id": 243,
+    "word": "product",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "ürün",
+    "examples": [
+      "This is our newest product.",
+      "The product sells very well.",
+      "They launched a new product last week."
+    ]
+  },
+  {
+    "id": 244,
+    "word": "service",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "hizmet",
+    "examples": [
+      "The restaurant has excellent service.",
+      "We offer customer service by phone.",
+      "This hotel provides great service."
+    ]
+  },
+  {
+    "id": 245,
+    "word": "customer",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "müşteri",
+    "examples": [
+      "The customer was very satisfied.",
+      "We always listen to our customers.",
+      "She helped a customer find the right size."
+    ]
+  },
+  {
+    "id": 246,
+    "word": "employee",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "çalışan",
+    "examples": [
+      "Every employee gets health insurance.",
+      "He is a hardworking employee.",
+      "The company has fifty employees."
+    ]
+  },
+  {
+    "id": 247,
+    "word": "manager",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "yönetici",
+    "examples": [
+      "She is the sales manager.",
+      "I need to speak to the manager.",
+      "The manager approved my request."
+    ]
+  },
+  {
+    "id": 248,
+    "word": "salary",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "maaş",
+    "examples": [
+      "She gets a good salary.",
+      "His salary increased this year.",
+      "They negotiated a higher salary."
+    ]
+  },
+  {
+    "id": 249,
+    "word": "income",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "gelir",
+    "examples": [
+      "Their income increased this year.",
+      "He has a stable income.",
+      "Low income makes life difficult."
+    ]
+  },
+  {
+    "id": 250,
+    "word": "expense",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "gider",
+    "examples": [
+      "We need to cut our expenses.",
+      "Travel is a big expense for us.",
+      "The company covers all expenses."
+    ]
+  },
+  {
+    "id": 251,
+    "word": "budget",
+    "pos": "noun",
+    "level": "B1",
+    "turkish": "bütçe",
+    "examples": [
+      "We need to plan our budget.",
+      "The project stayed within budget.",
+      "They increased the marketing budget."
+    ]
+  },
+  {
+    "id": 252,
+    "word": "responsible",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "sorumlu",
+    "examples": [
+      "She is responsible for the team.",
+      "He is a responsible worker.",
+      "Parents are responsible for their children."
+    ]
+  },
+  {
+    "id": 253,
+    "word": "successful",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "başarılı",
+    "examples": [
+      "She is a successful businesswoman.",
+      "The event was very successful.",
+      "He built a successful company."
+    ]
+  },
+  {
+    "id": 254,
+    "word": "confident",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "kendinden emin",
+    "examples": [
+      "She feels confident about the exam.",
+      "He gave a confident speech.",
+      "I am confident we will win."
+    ]
+  },
+  {
+    "id": 255,
+    "word": "nervous",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "gergin",
+    "examples": [
+      "She felt nervous before the interview.",
+      "I get nervous speaking in public.",
+      "He was nervous about the results."
+    ]
+  },
+  {
+    "id": 256,
+    "word": "comfortable",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "rahat",
+    "examples": [
+      "This chair is very comfortable.",
+      "I feel comfortable around her.",
+      "These shoes are so comfortable."
+    ]
+  },
+  {
+    "id": 257,
+    "word": "convenient",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "uygun, elverişli",
+    "examples": [
+      "This location is very convenient.",
+      "Is tomorrow convenient for you?",
+      "Online shopping is convenient."
+    ]
+  },
+  {
+    "id": 258,
+    "word": "available",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "müsait, mevcut",
+    "examples": [
+      "The manager is not available now.",
+      "Tickets are still available online.",
+      "Is this room available tonight?"
+    ]
+  },
+  {
+    "id": 259,
+    "word": "popular",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "popüler",
+    "examples": [
+      "This song is very popular.",
+      "She is popular among her classmates.",
+      "Coffee is a popular drink."
+    ]
+  },
+  {
+    "id": 260,
+    "word": "famous",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "ünlü",
+    "examples": [
+      "He is a famous actor.",
+      "This city is famous for its food.",
+      "She became famous overnight."
+    ]
+  },
+  {
+    "id": 261,
+    "word": "wealthy",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "zengin",
+    "examples": [
+      "They come from a wealthy family.",
+      "He became wealthy through business.",
+      "It's a wealthy neighborhood."
+    ]
+  },
+  {
+    "id": 262,
+    "word": "dangerous",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "tehlikeli",
+    "examples": [
+      "This road is very dangerous.",
+      "Smoking is dangerous for your health.",
+      "It's dangerous to swim here."
+    ]
+  },
+  {
+    "id": 263,
+    "word": "safe",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "güvenli",
+    "examples": [
+      "This neighborhood is very safe.",
+      "Keep your money in a safe place.",
+      "The children are safe at home."
+    ]
+  },
+  {
+    "id": 264,
+    "word": "healthy",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "sağlıklı",
+    "examples": [
+      "She eats a healthy diet.",
+      "Exercise keeps you healthy.",
+      "He looks healthy and strong."
+    ]
+  },
+  {
+    "id": 265,
+    "word": "careful",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "dikkatli",
+    "examples": [
+      "Be careful when crossing the street.",
+      "She is careful with money.",
+      "Drive carefully in the rain."
+    ]
+  },
+  {
+    "id": 266,
+    "word": "careless",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "dikkatsiz",
+    "examples": [
+      "He made a careless mistake.",
+      "Don't be careless with your keys.",
+      "Her careless driving caused an accident."
+    ]
+  },
+  {
+    "id": 267,
+    "word": "patient",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "sabırlı",
+    "examples": [
+      "Please be patient with the children.",
+      "She is very patient at work.",
+      "You need to be patient with him."
+    ]
+  },
+  {
+    "id": 268,
+    "word": "polite",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "kibar",
+    "examples": [
+      "She is always polite to strangers.",
+      "It's polite to say thank you.",
+      "He gave a polite answer."
+    ]
+  },
+  {
+    "id": 269,
+    "word": "rude",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "kaba",
+    "examples": [
+      "It was rude of him to interrupt.",
+      "The waiter was very rude.",
+      "Don't be rude to your teacher."
+    ]
+  },
+  {
+    "id": 270,
+    "word": "honest",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "dürüst",
+    "examples": [
+      "She is an honest person.",
+      "Please be honest with me.",
+      "He gave an honest opinion."
+    ]
+  },
+  {
+    "id": 271,
+    "word": "generous",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "cömert",
+    "examples": [
+      "He is very generous with his time.",
+      "She made a generous donation.",
+      "They were generous hosts."
+    ]
+  },
+  {
+    "id": 272,
+    "word": "selfish",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "bencil",
+    "examples": [
+      "He is too selfish to share.",
+      "That was a selfish decision.",
+      "She never acts in a selfish way."
+    ]
+  },
+  {
+    "id": 273,
+    "word": "curious",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "meraklı",
+    "examples": [
+      "Children are naturally curious.",
+      "I am curious about your trip.",
+      "She gave me a curious look."
+    ]
+  },
+  {
+    "id": 274,
+    "word": "creative",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "yaratıcı",
+    "examples": [
+      "She is a very creative artist.",
+      "We need a creative solution.",
+      "His creative ideas impressed everyone."
+    ]
+  },
+  {
+    "id": 275,
+    "word": "practical",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "pratik",
+    "examples": [
+      "This is a practical solution.",
+      "She gave practical advice.",
+      "He prefers practical gifts."
+    ]
+  },
+  {
+    "id": 276,
+    "word": "realistic",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "gerçekçi",
+    "examples": [
+      "Be realistic about your goals.",
+      "It's not a realistic plan.",
+      "She has a realistic view of life."
+    ]
+  },
+  {
+    "id": 277,
+    "word": "obvious",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "belli, açık",
+    "examples": [
+      "It's obvious that she is tired.",
+      "The answer is obvious.",
+      "He made an obvious mistake."
+    ]
+  },
+  {
+    "id": 278,
+    "word": "possible",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "mümkün",
+    "examples": [
+      "Is it possible to change the date?",
+      "Anything is possible with hard work.",
+      "We finished as soon as possible."
+    ]
+  },
+  {
+    "id": 279,
+    "word": "impossible",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "imkansız",
+    "examples": [
+      "It's impossible to finish this today.",
+      "Nothing is impossible if you try.",
+      "The task seemed impossible at first."
+    ]
+  },
+  {
+    "id": 280,
+    "word": "certain",
+    "pos": "adjective",
+    "level": "B1",
+    "turkish": "kesin, emin",
+    "examples": [
+      "I am certain she will come.",
+      "It's not certain when the train will arrive.",
+      "We need to be certain about this."
+    ]
+  },
+  {
+    "id": 281,
+    "word": "significant",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "önemli, belirgin",
+    "examples": [
+      "There was a significant increase in sales.",
+      "This is a significant achievement.",
+      "Her research made a significant contribution."
+    ]
+  },
+  {
+    "id": 282,
+    "word": "essential",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "gerekli, esas",
+    "examples": [
+      "Water is essential for life.",
+      "Good communication is essential at work.",
+      "It's essential to arrive on time."
+    ]
+  },
+  {
+    "id": 283,
+    "word": "crucial",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "çok önemli, kritik",
+    "examples": [
+      "This decision is crucial for the company.",
+      "Sleep is crucial for good health.",
+      "Timing was crucial to the plan."
+    ]
+  },
+  {
+    "id": 284,
+    "word": "relevant",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "ilgili, alakalı",
+    "examples": [
+      "Please give relevant examples.",
+      "This information is not relevant here.",
+      "Her experience is relevant to the job."
+    ]
+  },
+  {
+    "id": 285,
+    "word": "appropriate",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "uygun",
+    "examples": [
+      "Wear appropriate clothes for the interview.",
+      "This isn't the appropriate time to talk.",
+      "She gave an appropriate answer."
+    ]
+  },
+  {
+    "id": 286,
+    "word": "efficient",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "verimli",
+    "examples": [
+      "This machine is very efficient.",
+      "We need a more efficient system.",
+      "She is an efficient worker."
+    ]
+  },
+  {
+    "id": 287,
+    "word": "effective",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "etkili",
+    "examples": [
+      "This is an effective way to learn.",
+      "The medicine was very effective.",
+      "They used an effective strategy."
+    ]
+  },
+  {
+    "id": 288,
+    "word": "accurate",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "doğru, kesin",
+    "examples": [
+      "The report was very accurate.",
+      "Please give accurate information.",
+      "His prediction was surprisingly accurate."
+    ]
+  },
+  {
+    "id": 289,
+    "word": "reliable",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "güvenilir",
+    "examples": [
+      "She is a reliable friend.",
+      "This car is very reliable.",
+      "We need reliable data for this study."
+    ]
+  },
+  {
+    "id": 290,
+    "word": "consistent",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "tutarlı",
+    "examples": [
+      "Her work is always consistent.",
+      "Be consistent with your training.",
+      "The results were consistent across all tests."
+    ]
+  },
+  {
+    "id": 291,
+    "word": "flexible",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "esnek",
+    "examples": [
+      "My work schedule is flexible.",
+      "She has a flexible attitude.",
+      "We need a flexible plan."
+    ]
+  },
+  {
+    "id": 292,
+    "word": "stable",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "istikrarlı, sağlam",
+    "examples": [
+      "The economy is finally stable.",
+      "He has a stable job.",
+      "The table isn't very stable."
+    ]
+  },
+  {
+    "id": 293,
+    "word": "complex",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "karmaşık",
+    "examples": [
+      "This is a complex problem.",
+      "The system is too complex.",
+      "Human relationships can be complex."
+    ]
+  },
+  {
+    "id": 294,
+    "word": "complicated",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "karışık, karmaşık",
+    "examples": [
+      "The instructions were too complicated.",
+      "It's a complicated situation.",
+      "Their relationship is complicated."
+    ]
+  },
+  {
+    "id": 295,
+    "word": "ambiguous",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "belirsiz, muğlak",
+    "examples": [
+      "The instructions were ambiguous.",
+      "His answer was ambiguous.",
+      "This sentence is ambiguous."
+    ]
+  },
+  {
+    "id": 296,
+    "word": "controversial",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "tartışmalı",
+    "examples": [
+      "It's a controversial topic.",
+      "The decision was controversial.",
+      "He made a controversial statement."
+    ]
+  },
+  {
+    "id": 297,
+    "word": "competitive",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "rekabetçi",
+    "examples": [
+      "The job market is very competitive.",
+      "She has a competitive spirit.",
+      "They offer competitive prices."
+    ]
+  },
+  {
+    "id": 298,
+    "word": "innovative",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "yenilikçi",
+    "examples": [
+      "This is an innovative design.",
+      "The company is known for innovative products.",
+      "She has innovative ideas."
+    ]
+  },
+  {
+    "id": 299,
+    "word": "sustainable",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "sürdürülebilir",
+    "examples": [
+      "We need sustainable energy sources.",
+      "This is a sustainable business model.",
+      "Sustainable farming protects the soil."
+    ]
+  },
+  {
+    "id": 300,
+    "word": "diverse",
+    "pos": "adjective",
+    "level": "B2",
+    "turkish": "çeşitli",
+    "examples": [
+      "The city has a diverse population.",
+      "We offer a diverse range of products.",
+      "Her interests are very diverse."
+    ]
+  },
+  {
+    "id": 301,
+    "word": "analyze",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "analiz etmek",
+    "examples": [
+      "Scientists analyzed the data carefully.",
+      "We need to analyze this problem.",
+      "She analyzed the survey results."
+    ]
+  },
+  {
+    "id": 302,
+    "word": "evaluate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "değerlendirmek",
+    "examples": [
+      "The teacher will evaluate our essays.",
+      "We evaluated all the options.",
+      "They evaluated the risk carefully."
+    ]
+  },
+  {
+    "id": 303,
+    "word": "estimate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "tahmin etmek",
+    "examples": [
+      "We estimate the project will take a month.",
+      "She estimated the cost of repairs.",
+      "Experts estimate a rise in prices."
+    ]
+  },
+  {
+    "id": 304,
+    "word": "calculate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "hesaplamak",
+    "examples": [
+      "Let's calculate the total cost.",
+      "She calculated her monthly expenses.",
+      "He calculated the distance quickly."
+    ]
+  },
+  {
+    "id": 305,
+    "word": "assume",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "varsaymak",
+    "examples": [
+      "I assume you already know this.",
+      "Don't assume he is guilty.",
+      "We assumed the meeting was canceled."
+    ]
+  },
+  {
+    "id": 306,
+    "word": "conclude",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "sonuca varmak",
+    "examples": [
+      "The report concludes with a summary.",
+      "We concluded that the plan was risky.",
+      "She concluded her speech with thanks."
+    ]
+  },
+  {
+    "id": 307,
+    "word": "argue",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "tartışmak, savunmak",
+    "examples": [
+      "They argued about money.",
+      "She argued that the rule was unfair.",
+      "The lawyer argued his case well."
+    ]
+  },
+  {
+    "id": 308,
+    "word": "justify",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "haklı çıkarmak",
+    "examples": [
+      "Can you justify this expense?",
+      "He tried to justify his behavior.",
+      "The results justify our decision."
+    ]
+  },
+  {
+    "id": 309,
+    "word": "emphasize",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "vurgulamak",
+    "examples": [
+      "She emphasized the importance of safety.",
+      "The teacher emphasized this point.",
+      "He emphasized his last word."
+    ]
+  },
+  {
+    "id": 310,
+    "word": "illustrate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "göstermek, örneklemek",
+    "examples": [
+      "This example illustrates the problem well.",
+      "The chart illustrates recent trends.",
+      "She illustrated her point with a story."
+    ]
+  },
+  {
+    "id": 311,
+    "word": "demonstrate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "göstermek, kanıtlamak",
+    "examples": [
+      "She demonstrated how to use the machine.",
+      "The results demonstrate real progress.",
+      "He demonstrated great courage."
+    ]
+  },
+  {
+    "id": 312,
+    "word": "establish",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "kurmak",
+    "examples": [
+      "The company was established in 1990.",
+      "They established a new rule.",
+      "We need to establish trust first."
+    ]
+  },
+  {
+    "id": 313,
+    "word": "maintain",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "sürdürmek, korumak",
+    "examples": [
+      "It's hard to maintain a healthy diet.",
+      "She maintains a positive attitude.",
+      "The company maintains high standards."
+    ]
+  },
+  {
+    "id": 314,
+    "word": "eliminate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "ortadan kaldırmak",
+    "examples": [
+      "We eliminated all the errors.",
+      "The new rule eliminated confusion.",
+      "Exercise can help eliminate stress."
+    ]
+  },
+  {
+    "id": 315,
+    "word": "implement",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "uygulamak",
+    "examples": [
+      "The company implemented a new policy.",
+      "We need to implement these changes soon.",
+      "They implemented the plan successfully."
+    ]
+  },
+  {
+    "id": 316,
+    "word": "investigate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "araştırmak, soruşturmak",
+    "examples": [
+      "Police are investigating the crime.",
+      "We investigated the cause of the fire.",
+      "Scientists investigated the strange results."
+    ]
+  },
+  {
+    "id": 317,
+    "word": "identify",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "belirlemek, tanımak",
+    "examples": [
+      "We need to identify the problem first.",
+      "She identified the man in the photo.",
+      "The doctor identified the illness quickly."
+    ]
+  },
+  {
+    "id": 318,
+    "word": "indicate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "belirtmek, göstermek",
+    "examples": [
+      "The results indicate an improvement.",
+      "She indicated her agreement with a nod.",
+      "The sign indicates the exit."
+    ]
+  },
+  {
+    "id": 319,
+    "word": "involve",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "içermek, kapsamak",
+    "examples": [
+      "The job involves a lot of travel.",
+      "This project involves several teams.",
+      "The plan involves some risk."
+    ]
+  },
+  {
+    "id": 320,
+    "word": "include",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "içermek, dahil etmek",
+    "examples": [
+      "The price includes breakfast.",
+      "Please include your phone number.",
+      "The list includes all employees."
+    ]
+  },
+  {
+    "id": 321,
+    "word": "exclude",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "hariç tutmak",
+    "examples": [
+      "The price excludes tax.",
+      "She was excluded from the meeting.",
+      "This diet excludes sugar."
+    ]
+  },
+  {
+    "id": 322,
+    "word": "consist",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "oluşmak",
+    "examples": [
+      "The team consists of ten people.",
+      "Breakfast consisted of eggs and toast.",
+      "The course consists of five lessons."
+    ]
+  },
+  {
+    "id": 323,
+    "word": "contribute",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "katkıda bulunmak",
+    "examples": [
+      "Everyone contributed to the project.",
+      "She contributes to a local charity.",
+      "Exercise contributes to good health."
+    ]
+  },
+  {
+    "id": 324,
+    "word": "participate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "katılmak",
+    "examples": [
+      "All students must participate in the event.",
+      "She participated in the marathon.",
+      "We participated in the discussion."
+    ]
+  },
+  {
+    "id": 325,
+    "word": "cooperate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "işbirliği yapmak",
+    "examples": [
+      "The two teams cooperated well.",
+      "We must cooperate to finish on time.",
+      "The countries agreed to cooperate."
+    ]
+  },
+  {
+    "id": 326,
+    "word": "negotiate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "müzakere etmek",
+    "examples": [
+      "They negotiated a better price.",
+      "We need to negotiate the terms.",
+      "She negotiated her salary successfully."
+    ]
+  },
+  {
+    "id": 327,
+    "word": "compete",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "rekabet etmek, yarışmak",
+    "examples": [
+      "The two companies compete for customers.",
+      "She competes in swimming events.",
+      "They compete against each other every year."
+    ]
+  },
+  {
+    "id": 328,
+    "word": "collaborate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "işbirliği yapmak",
+    "examples": [
+      "The two artists collaborated on a song.",
+      "We collaborate with other departments.",
+      "They collaborated to solve the problem."
+    ]
+  },
+  {
+    "id": 329,
+    "word": "organize",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "organize etmek, düzenlemek",
+    "examples": [
+      "She organized the whole event.",
+      "We need to organize our files.",
+      "They organized a fundraiser last week."
+    ]
+  },
+  {
+    "id": 330,
+    "word": "coordinate",
+    "pos": "verb",
+    "level": "B2",
+    "turkish": "koordine etmek",
+    "examples": [
+      "She coordinates the marketing team.",
+      "We need to coordinate our schedules.",
+      "He coordinated the entire event."
+    ]
+  },
+  {
+    "id": 331,
+    "word": "strategy",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "strateji",
+    "examples": [
+      "We need a new marketing strategy.",
+      "Their strategy worked well.",
+      "She explained her business strategy."
+    ]
+  },
+  {
+    "id": 332,
+    "word": "approach",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "yaklaşım",
+    "examples": [
+      "We need a different approach to this problem.",
+      "Her approach to teaching is unique.",
+      "This is a practical approach."
+    ]
+  },
+  {
+    "id": 333,
+    "word": "method",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "yöntem",
+    "examples": [
+      "This is an effective method.",
+      "They tried a new teaching method.",
+      "She used a traditional cooking method."
+    ]
+  },
+  {
+    "id": 334,
+    "word": "process",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "süreç",
+    "examples": [
+      "The application process takes two weeks.",
+      "We improved our production process.",
+      "Learning a language is a slow process."
+    ]
+  },
+  {
+    "id": 335,
+    "word": "procedure",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "prosedür, işlem",
+    "examples": [
+      "Please follow the safety procedure.",
+      "The hospital has a strict procedure.",
+      "This is a standard procedure."
+    ]
+  },
+  {
+    "id": 336,
+    "word": "policy",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "politika",
+    "examples": [
+      "The company changed its return policy.",
+      "This is government policy.",
+      "We have a strict privacy policy."
+    ]
+  },
+  {
+    "id": 337,
+    "word": "regulation",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "düzenleme, yönetmelik",
+    "examples": [
+      "New regulations were introduced this year.",
+      "The factory follows safety regulations.",
+      "These regulations protect the environment."
+    ]
+  },
+  {
+    "id": 338,
+    "word": "requirement",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "gereklilik, şart",
+    "examples": [
+      "English is a requirement for this job.",
+      "We met all the requirements.",
+      "The visa has several requirements."
+    ]
+  },
+  {
+    "id": 339,
+    "word": "standard",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "standart",
+    "examples": [
+      "The hotel has a high standard of service.",
+      "We follow international standards.",
+      "This work does not meet the standard."
+    ]
+  },
+  {
+    "id": 340,
+    "word": "criteria",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "kriterler",
+    "examples": [
+      "The job has strict selection criteria.",
+      "We evaluated the proposals using these criteria.",
+      "Meeting the criteria is essential."
+    ]
+  },
+  {
+    "id": 341,
+    "word": "factor",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "faktör, etken",
+    "examples": [
+      "Price is an important factor.",
+      "Many factors affect our health.",
+      "Weather was a major factor in the delay."
+    ]
+  },
+  {
+    "id": 342,
+    "word": "element",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "unsur, öğe",
+    "examples": [
+      "Trust is a key element of friendship.",
+      "Water is a basic element of life.",
+      "Design is an important element of the product."
+    ]
+  },
+  {
+    "id": 343,
+    "word": "component",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "bileşen",
+    "examples": [
+      "This machine has many components.",
+      "Teamwork is a key component of success.",
+      "They replaced a broken component."
+    ]
+  },
+  {
+    "id": 344,
+    "word": "feature",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "özellik",
+    "examples": [
+      "This phone has many useful features.",
+      "The new car has a safety feature.",
+      "One key feature of the app is speed."
+    ]
+  },
+  {
+    "id": 345,
+    "word": "function",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "işlev",
+    "examples": [
+      "The main function of this device is heating.",
+      "Each button has a different function.",
+      "The heart's function is to pump blood."
+    ]
+  },
+  {
+    "id": 346,
+    "word": "structure",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "yapı",
+    "examples": [
+      "The company has a clear structure.",
+      "This sentence has a simple structure.",
+      "The building has a strong structure."
+    ]
+  },
+  {
+    "id": 347,
+    "word": "system",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "sistem",
+    "examples": [
+      "We use a new computer system.",
+      "The transport system is efficient here.",
+      "The immune system fights infection."
+    ]
+  },
+  {
+    "id": 348,
+    "word": "mechanism",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "mekanizma",
+    "examples": [
+      "This clock has a complex mechanism.",
+      "We need a mechanism to solve disputes.",
+      "The body has a natural cooling mechanism."
+    ]
+  },
+  {
+    "id": 349,
+    "word": "framework",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "çerçeve",
+    "examples": [
+      "They created a legal framework.",
+      "This is the framework for our project.",
+      "The software uses a modern framework."
+    ]
+  },
+  {
+    "id": 350,
+    "word": "concept",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "kavram",
+    "examples": [
+      "This is a difficult concept to explain.",
+      "She understood the concept quickly.",
+      "The concept of freedom means a lot to her."
+    ]
+  },
+  {
+    "id": 351,
+    "word": "theory",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "teori",
+    "examples": [
+      "Scientists proposed a new theory.",
+      "In theory, this plan should work.",
+      "She studies economic theory."
+    ]
+  },
+  {
+    "id": 352,
+    "word": "principle",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "ilke, prensip",
+    "examples": [
+      "Honesty is one of her core principles.",
+      "The machine works on a simple principle.",
+      "We follow strict ethical principles."
+    ]
+  },
+  {
+    "id": 353,
+    "word": "assumption",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "varsayım",
+    "examples": [
+      "That is a wrong assumption.",
+      "We made an assumption about the cost.",
+      "Her assumption turned out to be true."
+    ]
+  },
+  {
+    "id": 354,
+    "word": "hypothesis",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "hipotez",
+    "examples": [
+      "The scientist tested her hypothesis.",
+      "Our hypothesis was proven correct.",
+      "They formed a new hypothesis."
+    ]
+  },
+  {
+    "id": 355,
+    "word": "evidence",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "kanıt",
+    "examples": [
+      "There is no evidence for this claim.",
+      "The police found new evidence.",
+      "Scientific evidence supports this theory."
+    ]
+  },
+  {
+    "id": 356,
+    "word": "data",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "veri",
+    "examples": [
+      "We collected a lot of data.",
+      "The data shows a clear pattern.",
+      "Please save the data before closing."
+    ]
+  },
+  {
+    "id": 357,
+    "word": "statistics",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "istatistik",
+    "examples": [
+      "The statistics show a rise in sales.",
+      "She studies statistics at university.",
+      "According to statistics, crime has decreased."
+    ]
+  },
+  {
+    "id": 358,
+    "word": "analysis",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "analiz",
+    "examples": [
+      "The report includes a detailed analysis.",
+      "We need further analysis of this data.",
+      "Her analysis was very thorough."
+    ]
+  },
+  {
+    "id": 359,
+    "word": "research",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "araştırma",
+    "examples": [
+      "She is doing research on climate change.",
+      "The research took two years to complete.",
+      "New research supports this idea."
+    ]
+  },
+  {
+    "id": 360,
+    "word": "survey",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "anket, araştırma",
+    "examples": [
+      "We conducted a survey among customers.",
+      "The survey results were interesting.",
+      "Please fill out this short survey."
+    ]
+  },
+  {
+    "id": 361,
+    "word": "outcome",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "sonuç",
+    "examples": [
+      "We are happy with the outcome.",
+      "The outcome of the match surprised everyone.",
+      "This decision will affect the final outcome."
+    ]
+  },
+  {
+    "id": 362,
+    "word": "impact",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "etki",
+    "examples": [
+      "Climate change has a big impact on farming.",
+      "Her speech had a strong impact.",
+      "The new policy had a positive impact."
+    ]
+  },
+  {
+    "id": 363,
+    "word": "consequence",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "sonuç, netice",
+    "examples": [
+      "Every choice has a consequence.",
+      "She accepted the consequences of her actions.",
+      "The consequences were more serious than expected."
+    ]
+  },
+  {
+    "id": 364,
+    "word": "trend",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "eğilim, trend",
+    "examples": [
+      "This is a popular fashion trend.",
+      "Sales show an upward trend.",
+      "We follow the latest trends in technology."
+    ]
+  },
+  {
+    "id": 365,
+    "word": "phenomenon",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "olgu, fenomen",
+    "examples": [
+      "This is a rare natural phenomenon.",
+      "Climate change is a global phenomenon.",
+      "Scientists studied the strange phenomenon."
+    ]
+  },
+  {
+    "id": 366,
+    "word": "perspective",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "bakış açısı",
+    "examples": [
+      "Try to see it from her perspective.",
+      "This book offers a new perspective.",
+      "Everyone has a different perspective on life."
+    ]
+  },
+  {
+    "id": 367,
+    "word": "context",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "bağlam",
+    "examples": [
+      "You need to understand the context first.",
+      "In this context, the word means something else.",
+      "Historical context helps explain the event."
+    ]
+  },
+  {
+    "id": 368,
+    "word": "aspect",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "yön, boyut",
+    "examples": [
+      "There are many aspects to consider.",
+      "This is an important aspect of the job.",
+      "We discussed every aspect of the plan."
+    ]
+  },
+  {
+    "id": 369,
+    "word": "dimension",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "boyut",
+    "examples": [
+      "This box has three dimensions.",
+      "The problem has a political dimension too.",
+      "We need to consider every dimension of this issue."
+    ]
+  },
+  {
+    "id": 370,
+    "word": "category",
+    "pos": "noun",
+    "level": "B2",
+    "turkish": "kategori",
+    "examples": [
+      "This product falls into a new category.",
+      "Please choose the correct category.",
+      "The books are organized by category."
+    ]
+  },
+  {
+    "id": 371,
+    "word": "inevitable",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "kaçınılmaz",
+    "examples": [
+      "Change is inevitable in every business.",
+      "Their defeat seemed inevitable.",
+      "It was inevitable that prices would rise."
+    ]
+  },
+  {
+    "id": 372,
+    "word": "arbitrary",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "keyfi",
+    "examples": [
+      "The decision seemed completely arbitrary.",
+      "He set an arbitrary deadline.",
+      "Her choice of numbers was arbitrary."
+    ]
+  },
+  {
+    "id": 373,
+    "word": "subtle",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "ince, belli belirsiz",
+    "examples": [
+      "There was a subtle change in her tone.",
+      "The flavor has a subtle sweetness.",
+      "He made a subtle joke."
+    ]
+  },
+  {
+    "id": 374,
+    "word": "profound",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "derin, köklü",
+    "examples": [
+      "The book had a profound effect on me.",
+      "She has a profound understanding of history.",
+      "It was a profound experience."
+    ]
+  },
+  {
+    "id": 375,
+    "word": "comprehensive",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "kapsamlı",
+    "examples": [
+      "We need a comprehensive plan.",
+      "The report gives a comprehensive overview.",
+      "She has comprehensive knowledge of the subject."
+    ]
+  },
+  {
+    "id": 376,
+    "word": "coherent",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "tutarlı",
+    "examples": [
+      "Her argument was clear and coherent.",
+      "The essay lacked a coherent structure.",
+      "We need a coherent strategy."
+    ]
+  },
+  {
+    "id": 377,
+    "word": "rigorous",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "titiz, sıkı",
+    "examples": [
+      "The training program is very rigorous.",
+      "Scientists follow rigorous testing methods.",
+      "She has a rigorous work ethic."
+    ]
+  },
+  {
+    "id": 378,
+    "word": "plausible",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "makul, akla yatkın",
+    "examples": [
+      "His explanation sounded plausible.",
+      "It's a plausible theory.",
+      "She gave a plausible excuse."
+    ]
+  },
+  {
+    "id": 379,
+    "word": "pragmatic",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "pragmatik, gerçekçi",
+    "examples": [
+      "We need a pragmatic solution.",
+      "She takes a pragmatic approach to life.",
+      "His pragmatic advice helped us decide."
+    ]
+  },
+  {
+    "id": 380,
+    "word": "skeptical",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "şüpheci",
+    "examples": [
+      "I'm skeptical about this plan.",
+      "She remained skeptical of his promises.",
+      "Scientists are often skeptical of new claims."
+    ]
+  },
+  {
+    "id": 381,
+    "word": "versatile",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "çok yönlü",
+    "examples": [
+      "She is a versatile actress.",
+      "This tool is very versatile.",
+      "He has versatile skills in the kitchen."
+    ]
+  },
+  {
+    "id": 382,
+    "word": "meticulous",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "titiz, dikkatli",
+    "examples": [
+      "She is meticulous about her work.",
+      "He kept meticulous records.",
+      "The report was written with meticulous care."
+    ]
+  },
+  {
+    "id": 383,
+    "word": "tedious",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "sıkıcı, yorucu",
+    "examples": [
+      "The meeting was long and tedious.",
+      "Filling out forms is tedious.",
+      "It was a tedious journey."
+    ]
+  },
+  {
+    "id": 384,
+    "word": "tentative",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "geçici, kesin olmayan",
+    "examples": [
+      "We have a tentative plan for next week.",
+      "She gave a tentative answer.",
+      "The date is still tentative."
+    ]
+  },
+  {
+    "id": 385,
+    "word": "volatile",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "değişken, istikrarsız",
+    "examples": [
+      "The stock market is very volatile.",
+      "He has a volatile temper.",
+      "Prices remain volatile this year."
+    ]
+  },
+  {
+    "id": 386,
+    "word": "ubiquitous",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "her yerde bulunan",
+    "examples": [
+      "Smartphones have become ubiquitous.",
+      "Coffee shops are ubiquitous in this city.",
+      "Plastic waste is now ubiquitous."
+    ]
+  },
+  {
+    "id": 387,
+    "word": "intrinsic",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "içsel, asli",
+    "examples": [
+      "The painting has intrinsic value.",
+      "Curiosity is an intrinsic part of learning.",
+      "Her intrinsic motivation drives her success."
+    ]
+  },
+  {
+    "id": 388,
+    "word": "explicit",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "açık, net",
+    "examples": [
+      "She gave explicit instructions.",
+      "The contract states this explicitly.",
+      "He was explicit about his expectations."
+    ]
+  },
+  {
+    "id": 389,
+    "word": "implicit",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "örtük, dolaylı",
+    "examples": [
+      "There was an implicit warning in his tone.",
+      "The agreement includes implicit trust.",
+      "Her comment had an implicit meaning."
+    ]
+  },
+  {
+    "id": 390,
+    "word": "conventional",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "geleneksel, alışılmış",
+    "examples": [
+      "She prefers conventional methods.",
+      "This is a conventional way of teaching.",
+      "They rejected conventional wisdom."
+    ]
+  },
+  {
+    "id": 391,
+    "word": "unprecedented",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "eşi görülmemiş",
+    "examples": [
+      "The company had unprecedented growth.",
+      "It was an unprecedented decision.",
+      "We face unprecedented challenges today."
+    ]
+  },
+  {
+    "id": 392,
+    "word": "substantial",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "önemli, hatırı sayılır",
+    "examples": [
+      "She made a substantial contribution.",
+      "There was a substantial increase in costs.",
+      "He has substantial experience in this field."
+    ]
+  },
+  {
+    "id": 393,
+    "word": "prevalent",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "yaygın",
+    "examples": [
+      "This disease is prevalent in the region.",
+      "Poverty remains prevalent in some areas.",
+      "Social media use is prevalent among teens."
+    ]
+  },
+  {
+    "id": 394,
+    "word": "redundant",
+    "pos": "adjective",
+    "level": "C1",
+    "turkish": "gereksiz, fazlalık",
+    "examples": [
+      "Some words in the sentence are redundant.",
+      "His position became redundant after the merger.",
+      "We removed the redundant information."
+    ]
+  },
+  {
+    "id": 395,
+    "word": "discrepancy",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "tutarsızlık, fark",
+    "examples": [
+      "There is a discrepancy in the numbers.",
+      "We found a discrepancy between the reports.",
+      "The discrepancy needs to be explained."
+    ]
+  },
+  {
+    "id": 396,
+    "word": "ambiguity",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "belirsizlik",
+    "examples": [
+      "The contract contains some ambiguity.",
+      "We need to remove ambiguity from the rules.",
+      "Her answer was full of ambiguity."
+    ]
+  },
+  {
+    "id": 397,
+    "word": "paradox",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "paradoks, çelişki",
+    "examples": [
+      "It's a paradox that he feels lonely in a crowd.",
+      "The paradox of choice can be overwhelming.",
+      "This is a classic paradox in philosophy."
+    ]
+  },
+  {
+    "id": 398,
+    "word": "dilemma",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "ikilem",
+    "examples": [
+      "She faced a difficult dilemma.",
+      "We are stuck in a moral dilemma.",
+      "His dilemma was choosing between two jobs."
+    ]
+  },
+  {
+    "id": 399,
+    "word": "controversy",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "tartışma, çekişme",
+    "examples": [
+      "The decision caused a lot of controversy.",
+      "There was public controversy over the plan.",
+      "The new law sparked controversy."
+    ]
+  },
+  {
+    "id": 400,
+    "word": "integrity",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "dürüstlük, bütünlük",
+    "examples": [
+      "She is known for her integrity.",
+      "The company values honesty and integrity.",
+      "He acted with great integrity."
+    ]
+  },
+  {
+    "id": 401,
+    "word": "credibility",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "güvenilirlik",
+    "examples": [
+      "The scandal damaged his credibility.",
+      "She built credibility through hard work.",
+      "This report lacks credibility."
+    ]
+  },
+  {
+    "id": 402,
+    "word": "autonomy",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "özerklik",
+    "examples": [
+      "Employees value autonomy at work.",
+      "The region was granted more autonomy.",
+      "Teenagers seek more autonomy from their parents."
+    ]
+  },
+  {
+    "id": 403,
+    "word": "initiative",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "girişim, inisiyatif",
+    "examples": [
+      "She took the initiative to start the project.",
+      "The government launched a new initiative.",
+      "He showed great initiative at work."
+    ]
+  },
+  {
+    "id": 404,
+    "word": "incentive",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "teşvik",
+    "examples": [
+      "The company offers an incentive for good sales.",
+      "Tax breaks are a strong incentive.",
+      "There is little incentive to change."
+    ]
+  },
+  {
+    "id": 405,
+    "word": "constraint",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "kısıtlama, sınırlama",
+    "examples": [
+      "We are working under time constraints.",
+      "Budget constraints limited our options.",
+      "There are legal constraints on this business."
+    ]
+  },
+  {
+    "id": 406,
+    "word": "implication",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "sonuç, çıkarım",
+    "examples": [
+      "This decision has serious implications.",
+      "We must consider the implications of this policy.",
+      "The implication of her words was clear."
+    ]
+  },
+  {
+    "id": 407,
+    "word": "inference",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "çıkarım",
+    "examples": [
+      "We can make an inference from this data.",
+      "Her inference was logical.",
+      "The scientist drew a careful inference."
+    ]
+  },
+  {
+    "id": 408,
+    "word": "correlation",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "ilişki, korelasyon",
+    "examples": [
+      "There is a strong correlation between exercise and health.",
+      "The study found a correlation between the two factors.",
+      "Correlation does not always mean causation."
+    ]
+  },
+  {
+    "id": 409,
+    "word": "causation",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "nedensellik",
+    "examples": [
+      "Scientists study causation carefully.",
+      "It's hard to prove causation in this case.",
+      "The report confuses correlation with causation."
+    ]
+  },
+  {
+    "id": 410,
+    "word": "variable",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "değişken",
+    "examples": [
+      "There are many variables to consider.",
+      "The experiment had several variables.",
+      "Weather is an unpredictable variable in farming."
+    ]
+  },
+  {
+    "id": 411,
+    "word": "parameter",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "parametre, sınır",
+    "examples": [
+      "We set clear parameters for the project.",
+      "The software allows you to adjust parameters.",
+      "Cost is an important parameter here."
+    ]
+  },
+  {
+    "id": 412,
+    "word": "paradigm",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "paradigma, model",
+    "examples": [
+      "This discovery created a new paradigm.",
+      "The company shifted to a new business paradigm.",
+      "It challenged the traditional paradigm."
+    ]
+  },
+  {
+    "id": 413,
+    "word": "methodology",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "metodoloji",
+    "examples": [
+      "The study uses a clear methodology.",
+      "We improved our research methodology.",
+      "Her methodology was praised by experts."
+    ]
+  },
+  {
+    "id": 414,
+    "word": "synthesis",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "sentez",
+    "examples": [
+      "The essay is a synthesis of several ideas.",
+      "Protein synthesis happens in cells.",
+      "Her work is a synthesis of art and science."
+    ]
+  },
+  {
+    "id": 415,
+    "word": "dichotomy",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "ikilik, karşıtlık",
+    "examples": [
+      "There is a dichotomy between theory and practice.",
+      "The dichotomy of good and evil appears often in stories.",
+      "He explained the dichotomy clearly."
+    ]
+  },
+  {
+    "id": 416,
+    "word": "nuance",
+    "pos": "noun",
+    "level": "C1",
+    "turkish": "nüans, incelik",
+    "examples": [
+      "She understands the nuances of the language.",
+      "There is a subtle nuance in his tone.",
+      "Translation often loses small nuances."
+    ]
+  },
+  {
+    "id": 417,
+    "word": "scrutinize",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "dikkatle incelemek",
+    "examples": [
+      "The auditors scrutinized every expense.",
+      "Reporters scrutinized his statement.",
+      "We scrutinized the contract carefully."
+    ]
+  },
+  {
+    "id": 418,
+    "word": "undermine",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "zayıflatmak, baltalamak",
+    "examples": [
+      "His comments undermined her confidence.",
+      "The scandal undermined public trust.",
+      "Doubt can undermine your progress."
+    ]
+  },
+  {
+    "id": 419,
+    "word": "reinforce",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "güçlendirmek, pekiştirmek",
+    "examples": [
+      "Practice reinforces what you learn.",
+      "The wall was reinforced with steel.",
+      "Her success reinforced our decision."
+    ]
+  },
+  {
+    "id": 420,
+    "word": "mitigate",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "hafifletmek",
+    "examples": [
+      "We took steps to mitigate the risk.",
+      "The plan aims to mitigate climate change.",
+      "This policy helps mitigate poverty."
+    ]
+  },
+  {
+    "id": 421,
+    "word": "exacerbate",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "kötüleştirmek",
+    "examples": [
+      "The delay exacerbated the problem.",
+      "Stress can exacerbate health issues.",
+      "Poor communication exacerbated the conflict."
+    ]
+  },
+  {
+    "id": 422,
+    "word": "alleviate",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "hafifletmek",
+    "examples": [
+      "The medicine helped alleviate the pain.",
+      "We hope to alleviate their suffering.",
+      "This program aims to alleviate poverty."
+    ]
+  },
+  {
+    "id": 423,
+    "word": "facilitate",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "kolaylaştırmak",
+    "examples": [
+      "Technology can facilitate learning.",
+      "The teacher facilitated the discussion.",
+      "This tool facilitates communication between teams."
+    ]
+  },
+  {
+    "id": 424,
+    "word": "hinder",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "engellemek",
+    "examples": [
+      "Bad weather hindered our progress.",
+      "Fear can hinder success.",
+      "The rules hindered the company's growth."
+    ]
+  },
+  {
+    "id": 425,
+    "word": "constitute",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "oluşturmak, teşkil etmek",
+    "examples": [
+      "Women constitute half of the workforce.",
+      "This behavior constitutes a violation of the rules.",
+      "These items constitute the basic kit."
+    ]
+  },
+  {
+    "id": 426,
+    "word": "derive",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "türetmek, elde etmek",
+    "examples": [
+      "She derives great pleasure from painting.",
+      "The word derives from Latin.",
+      "We derived useful insights from the data."
+    ]
+  },
+  {
+    "id": 427,
+    "word": "infer",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "çıkarım yapmak",
+    "examples": [
+      "We can infer his intentions from his actions.",
+      "She inferred that he was upset.",
+      "It's hard to infer the meaning from context."
+    ]
+  },
+  {
+    "id": 428,
+    "word": "presume",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "varsaymak",
+    "examples": [
+      "I presume you have read the report.",
+      "We presumed he was joking.",
+      "Don't presume to know my reasons."
+    ]
+  },
+  {
+    "id": 429,
+    "word": "reconcile",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "uzlaştırmak, bağdaştırmak",
+    "examples": [
+      "They finally reconciled after years apart.",
+      "We need to reconcile these two ideas.",
+      "She reconciled her accounts at the end of the month."
+    ]
+  },
+  {
+    "id": 430,
+    "word": "substantiate",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "kanıtlamak, doğrulamak",
+    "examples": [
+      "She could not substantiate her claim.",
+      "The evidence substantiates his story.",
+      "We need proof to substantiate this theory."
+    ]
+  },
+  {
+    "id": 431,
+    "word": "corroborate",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "doğrulamak, teyit etmek",
+    "examples": [
+      "The witness corroborated her account.",
+      "New evidence corroborated the theory.",
+      "His statement corroborates what we already knew."
+    ]
+  },
+  {
+    "id": 432,
+    "word": "articulate",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "açıkça ifade etmek",
+    "examples": [
+      "She articulated her ideas clearly.",
+      "He struggled to articulate his feelings.",
+      "The report articulates a clear strategy."
+    ]
+  },
+  {
+    "id": 433,
+    "word": "advocate",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "savunmak",
+    "examples": [
+      "She advocates for better education.",
+      "He advocates a healthier lifestyle.",
+      "They advocate for human rights."
+    ]
+  },
+  {
+    "id": 434,
+    "word": "comply",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "uymak, riayet etmek",
+    "examples": [
+      "All companies must comply with the law.",
+      "She complied with the new rules.",
+      "The factory complies with safety standards."
+    ]
+  },
+  {
+    "id": 435,
+    "word": "conform",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "uymak, uyum sağlamak",
+    "examples": [
+      "The product must conform to safety standards.",
+      "He refused to conform to social norms.",
+      "Their design conforms to the new regulations."
+    ]
+  },
+  {
+    "id": 436,
+    "word": "deviate",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "sapmak",
+    "examples": [
+      "The plane deviated from its usual route.",
+      "We should not deviate from the plan.",
+      "His opinion deviates from the majority."
+    ]
+  },
+  {
+    "id": 437,
+    "word": "diminish",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "azalmak, küçültmek",
+    "examples": [
+      "Her enthusiasm diminished over time.",
+      "The medicine diminished the pain.",
+      "His influence has diminished in recent years."
+    ]
+  },
+  {
+    "id": 438,
+    "word": "enhance",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "geliştirmek, artırmak",
+    "examples": [
+      "This course will enhance your skills.",
+      "The new design enhances the user experience.",
+      "Good lighting enhances the room."
+    ]
+  },
+  {
+    "id": 439,
+    "word": "accumulate",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "biriktirmek",
+    "examples": [
+      "Dust accumulated on the shelves.",
+      "She accumulated a lot of experience over the years.",
+      "Debt can accumulate quickly."
+    ]
+  },
+  {
+    "id": 440,
+    "word": "compensate",
+    "pos": "verb",
+    "level": "C1",
+    "turkish": "telafi etmek, tazmin etmek",
+    "examples": [
+      "The company compensated him for the damage.",
+      "She works hard to compensate for lost time.",
+      "Nothing can compensate for that loss."
+    ]
+  },
+  {
+    "id": 441,
+    "word": "ephemeral",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "geçici, kısa ömürlü",
+    "examples": [
+      "Fame can be ephemeral.",
+      "The beauty of cherry blossoms is ephemeral.",
+      "Social media trends are often ephemeral."
+    ]
+  },
+  {
+    "id": 442,
+    "word": "esoteric",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "az bilinen, sınırlı çevreye özgü",
+    "examples": [
+      "The lecture covered esoteric topics in physics.",
+      "He has esoteric knowledge of ancient languages.",
+      "Her interests are somewhat esoteric."
+    ]
+  },
+  {
+    "id": 443,
+    "word": "quintessential",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "tam anlamıyla, mükemmel örnek",
+    "examples": [
+      "He is the quintessential gentleman.",
+      "This dish is the quintessential Italian meal.",
+      "It's the quintessential example of good design."
+    ]
+  },
+  {
+    "id": 444,
+    "word": "idiosyncratic",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "kendine özgü",
+    "examples": [
+      "She has an idiosyncratic writing style.",
+      "His idiosyncratic habits amuse his friends.",
+      "The building has an idiosyncratic design."
+    ]
+  },
+  {
+    "id": 445,
+    "word": "ostensible",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "görünürdeki, sözde",
+    "examples": [
+      "The ostensible reason for his visit was business.",
+      "Their ostensible goal was peace.",
+      "The ostensible leader had little real power."
+    ]
+  },
+  {
+    "id": 446,
+    "word": "innate",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "doğuştan gelen",
+    "examples": [
+      "She has an innate talent for music.",
+      "Curiosity is an innate human trait.",
+      "His innate kindness was obvious to everyone."
+    ]
+  },
+  {
+    "id": 447,
+    "word": "empirical",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "deneysel, ampirik",
+    "examples": [
+      "The theory is based on empirical evidence.",
+      "We need empirical data to support this claim.",
+      "Empirical research confirmed the hypothesis."
+    ]
+  },
+  {
+    "id": 448,
+    "word": "dogmatic",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "dogmatik, katı",
+    "examples": [
+      "He is very dogmatic about his beliefs.",
+      "Her dogmatic approach limited discussion.",
+      "The teacher was dogmatic and inflexible."
+    ]
+  },
+  {
+    "id": 449,
+    "word": "fastidious",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "titiz, müşkülpesent",
+    "examples": [
+      "She is fastidious about cleanliness.",
+      "He is a fastidious editor.",
+      "Their fastidious attention to detail impressed the client."
+    ]
+  },
+  {
+    "id": 450,
+    "word": "capricious",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "kaprisli, dönek",
+    "examples": [
+      "The weather here is capricious.",
+      "He has a capricious personality.",
+      "Her capricious decisions confused the team."
+    ]
+  },
+  {
+    "id": 451,
+    "word": "gratuitous",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "gereksiz, lüzumsuz",
+    "examples": [
+      "The movie had gratuitous violence.",
+      "His comment was gratuitous and unkind.",
+      "There was gratuitous detail in the report."
+    ]
+  },
+  {
+    "id": 452,
+    "word": "sanguine",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "iyimser, umutlu",
+    "examples": [
+      "She remained sanguine about the future.",
+      "He is sanguine despite the setbacks.",
+      "Investors are sanguine about the market."
+    ]
+  },
+  {
+    "id": 453,
+    "word": "austere",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "sade, sert",
+    "examples": [
+      "The monks live an austere life.",
+      "The room had an austere design.",
+      "He faced austere criticism from the board."
+    ]
+  },
+  {
+    "id": 454,
+    "word": "laconic",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "az ve öz konuşan",
+    "examples": [
+      "His laconic reply surprised everyone.",
+      "She is known for her laconic style.",
+      "The manager gave a laconic response."
+    ]
+  },
+  {
+    "id": 455,
+    "word": "verbose",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "gereğinden fazla sözcük kullanan",
+    "examples": [
+      "His explanation was too verbose.",
+      "The report was verbose and unclear.",
+      "She simplified the verbose instructions."
+    ]
+  },
+  {
+    "id": 456,
+    "word": "pernicious",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "zararlı, yıkıcı",
+    "examples": [
+      "Gossip can have a pernicious effect on friendships.",
+      "The disease had a pernicious impact on the crops.",
+      "Pernicious rumors damaged her reputation."
+    ]
+  },
+  {
+    "id": 457,
+    "word": "salient",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "göze çarpan, belirgin",
+    "examples": [
+      "The report highlights the salient points.",
+      "This is the most salient feature of the design.",
+      "She made a few salient observations."
+    ]
+  },
+  {
+    "id": 458,
+    "word": "tenuous",
+    "pos": "adjective",
+    "level": "C2",
+    "turkish": "zayıf, belirsiz",
+    "examples": [
+      "The connection between the two events is tenuous.",
+      "His argument was tenuous at best.",
+      "They have only a tenuous agreement."
+    ]
+  },
+  {
+    "id": 459,
+    "word": "vindicate",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "haklı çıkarmak",
+    "examples": [
+      "The new evidence vindicated her claims.",
+      "He was finally vindicated after the trial.",
+      "Time vindicated their decision."
+    ]
+  },
+  {
+    "id": 460,
+    "word": "exonerate",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "aklamak",
+    "examples": [
+      "The new evidence exonerated the suspect.",
+      "He was exonerated of all charges.",
+      "The report exonerated the company from blame."
+    ]
+  },
+  {
+    "id": 461,
+    "word": "vilify",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "karalamak, kötülemek",
+    "examples": [
+      "The media vilified him unfairly.",
+      "She was vilified for her opinion.",
+      "They vilified the company in the press."
+    ]
+  },
+  {
+    "id": 462,
+    "word": "placate",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "yatıştırmak",
+    "examples": [
+      "He tried to placate the angry customer.",
+      "She placated the crowd with a calm speech.",
+      "Nothing could placate his anger."
+    ]
+  },
+  {
+    "id": 463,
+    "word": "assuage",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "yatıştırmak, hafifletmek",
+    "examples": [
+      "He tried to assuage her fears.",
+      "The apology helped assuage his guilt.",
+      "Nothing could assuage the pain of loss."
+    ]
+  },
+  {
+    "id": 464,
+    "word": "castigate",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "sert eleştirmek, azarlamak",
+    "examples": [
+      "The critics castigated the film.",
+      "He was castigated for his careless mistake.",
+      "The report castigated the government's response."
+    ]
+  },
+  {
+    "id": 465,
+    "word": "admonish",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "uyarmak, azarlamak",
+    "examples": [
+      "The teacher admonished the students for being late.",
+      "She was admonished for her behavior.",
+      "He admonished his son gently."
+    ]
+  },
+  {
+    "id": 466,
+    "word": "rebuke",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "azarlamak, kınamak",
+    "examples": [
+      "The coach rebuked the players for their mistakes.",
+      "She rebuked him sharply.",
+      "He received a public rebuke."
+    ]
+  },
+  {
+    "id": 467,
+    "word": "extol",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "övmek, yüceltmek",
+    "examples": [
+      "The critics extolled the film's originality.",
+      "She extolled the benefits of exercise.",
+      "He extolled his mentor's wisdom."
+    ]
+  },
+  {
+    "id": 468,
+    "word": "disparage",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "küçümsemek",
+    "examples": [
+      "He often disparages his colleagues' work.",
+      "She never disparages other people's ideas.",
+      "The critic disparaged the new novel."
+    ]
+  },
+  {
+    "id": 469,
+    "word": "denounce",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "kınamak",
+    "examples": [
+      "The leader denounced the attack.",
+      "She denounced the unfair policy.",
+      "They denounced corruption publicly."
+    ]
+  },
+  {
+    "id": 470,
+    "word": "repudiate",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "reddetmek, tanımamak",
+    "examples": [
+      "He repudiated the accusations completely.",
+      "The government repudiated the treaty.",
+      "She repudiated her earlier statement."
+    ]
+  },
+  {
+    "id": 471,
+    "word": "abrogate",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "yürürlükten kaldırmak, feshetmek",
+    "examples": [
+      "The new law abrogates the old rule.",
+      "They abrogated the treaty last year.",
+      "The court abrogated the previous ruling."
+    ]
+  },
+  {
+    "id": 472,
+    "word": "circumvent",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "atlatmak, dolaşmak",
+    "examples": [
+      "They tried to circumvent the regulations.",
+      "She found a way to circumvent the problem.",
+      "The company circumvented the tax laws."
+    ]
+  },
+  {
+    "id": 473,
+    "word": "preclude",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "engellemek, imkansız kılmak",
+    "examples": [
+      "His injury precludes him from playing.",
+      "The contract precludes any changes.",
+      "Bad weather precluded outdoor activities."
+    ]
+  },
+  {
+    "id": 474,
+    "word": "relinquish",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "vazgeçmek, bırakmak",
+    "examples": [
+      "He relinquished his position as manager.",
+      "She relinquished control of the company.",
+      "They relinquished their claim to the land."
+    ]
+  },
+  {
+    "id": 475,
+    "word": "usurp",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "gasp etmek, zorla almak",
+    "examples": [
+      "He usurped the throne from his brother.",
+      "The general usurped power in the coup.",
+      "She felt her role had been usurped."
+    ]
+  },
+  {
+    "id": 476,
+    "word": "subjugate",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "boyun eğdirmek",
+    "examples": [
+      "The empire subjugated many nations.",
+      "They refused to be subjugated.",
+      "The rulers subjugated the local population."
+    ]
+  },
+  {
+    "id": 477,
+    "word": "emancipate",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "özgürleştirmek",
+    "examples": [
+      "The law emancipated the slaves.",
+      "Education can emancipate people from poverty.",
+      "She felt emancipated after the decision."
+    ]
+  },
+  {
+    "id": 478,
+    "word": "galvanize",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "harekete geçirmek",
+    "examples": [
+      "The speech galvanized the crowd into action.",
+      "Her passion galvanized the team.",
+      "The crisis galvanized public support."
+    ]
+  },
+  {
+    "id": 479,
+    "word": "exemplify",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "örneklemek, temsil etmek",
+    "examples": [
+      "This case exemplifies the problem perfectly.",
+      "Her work exemplifies great craftsmanship.",
+      "The story exemplifies courage."
+    ]
+  },
+  {
+    "id": 480,
+    "word": "epitomize",
+    "pos": "verb",
+    "level": "C2",
+    "turkish": "somutlaştırmak, örneği olmak",
+    "examples": [
+      "She epitomizes hard work and dedication.",
+      "The building epitomizes modern architecture.",
+      "His actions epitomize true leadership."
+    ]
+  },
+  {
+    "id": 481,
+    "word": "conundrum",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "muamma, bilmece",
+    "examples": [
+      "We faced a difficult conundrum.",
+      "The puzzle was a real conundrum.",
+      "Scientists tried to solve the conundrum."
+    ]
+  },
+  {
+    "id": 482,
+    "word": "quandary",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "ikilem, çıkmaz",
+    "examples": [
+      "She was in a quandary about which job to take.",
+      "We found ourselves in a moral quandary.",
+      "His quandary lasted for weeks."
+    ]
+  },
+  {
+    "id": 483,
+    "word": "exigency",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "aciliyet, zorunluluk",
+    "examples": [
+      "The exigency of the situation required quick action.",
+      "They responded to the exigencies of war.",
+      "Budget exigencies forced the cuts."
+    ]
+  },
+  {
+    "id": 484,
+    "word": "vicissitude",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "iniş çıkış, değişkenlik",
+    "examples": [
+      "They faced the vicissitudes of life together.",
+      "Her career had many vicissitudes.",
+      "The company survived the vicissitudes of the market."
+    ]
+  },
+  {
+    "id": 485,
+    "word": "idiosyncrasy",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "kendine özgü özellik",
+    "examples": [
+      "Everyone has their own idiosyncrasies.",
+      "His idiosyncrasy was always wearing a hat.",
+      "The author's idiosyncrasies show in her writing."
+    ]
+  },
+  {
+    "id": 486,
+    "word": "zeitgeist",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "zamanın ruhu",
+    "examples": [
+      "The film captured the zeitgeist of the 1960s.",
+      "This song reflects the current zeitgeist.",
+      "Artists often respond to the zeitgeist."
+    ]
+  },
+  {
+    "id": 487,
+    "word": "hegemony",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "hegemonya, üstünlük",
+    "examples": [
+      "The empire maintained hegemony over the region.",
+      "They challenged the company's market hegemony.",
+      "Cultural hegemony shapes public opinion."
+    ]
+  },
+  {
+    "id": 488,
+    "word": "anomaly",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "anomali, sapma",
+    "examples": [
+      "Scientists found an anomaly in the data.",
+      "This result is an anomaly compared to others.",
+      "The weather this year was an anomaly."
+    ]
+  },
+  {
+    "id": 489,
+    "word": "catalyst",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "katalizör, tetikleyici",
+    "examples": [
+      "The scandal was a catalyst for reform.",
+      "Her speech was a catalyst for change.",
+      "The event acted as a catalyst for growth."
+    ]
+  },
+  {
+    "id": 490,
+    "word": "juxtaposition",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "yan yana koyma, karşılaştırma",
+    "examples": [
+      "The painting shows a juxtaposition of light and dark.",
+      "The juxtaposition of old and new buildings is striking.",
+      "The film uses juxtaposition to create contrast."
+    ]
+  },
+  {
+    "id": 491,
+    "word": "antithesis",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "zıddı, karşıtı",
+    "examples": [
+      "Her calm manner is the antithesis of his temper.",
+      "This idea is the antithesis of freedom.",
+      "Peace is the antithesis of war."
+    ]
+  },
+  {
+    "id": 492,
+    "word": "synergy",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "sinerji",
+    "examples": [
+      "The merger created strong synergy between the companies.",
+      "There is great synergy in their teamwork.",
+      "The two departments worked with real synergy."
+    ]
+  },
+  {
+    "id": 493,
+    "word": "panacea",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "mucize çözüm, her derde deva",
+    "examples": [
+      "There is no panacea for economic problems.",
+      "Technology is not a panacea for every issue.",
+      "He hoped for a panacea to end the crisis."
+    ]
+  },
+  {
+    "id": 494,
+    "word": "stigma",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "damga, leke",
+    "examples": [
+      "There is still a stigma around mental illness.",
+      "She fought against the stigma of poverty.",
+      "Society must remove this stigma."
+    ]
+  },
+  {
+    "id": 495,
+    "word": "precedent",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "emsal, örnek",
+    "examples": [
+      "The ruling set a legal precedent.",
+      "There is no precedent for this situation.",
+      "The decision followed established precedent."
+    ]
+  },
+  {
+    "id": 496,
+    "word": "facade",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "cephe, görünüş",
+    "examples": [
+      "The building has a beautiful facade.",
+      "His confidence was just a facade.",
+      "Behind the calm facade, she was worried."
+    ]
+  },
+  {
+    "id": 497,
+    "word": "caveat",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "şart, ihtiyat kaydı",
+    "examples": [
+      "I'll help you, but with one caveat.",
+      "The contract includes an important caveat.",
+      "She added a caveat to her advice."
+    ]
+  },
+  {
+    "id": 498,
+    "word": "rhetoric",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "retorik, söylev sanatı",
+    "examples": [
+      "His speech was full of empty rhetoric.",
+      "She studied classical rhetoric at university.",
+      "Political rhetoric often exaggerates the truth."
+    ]
+  },
+  {
+    "id": 499,
+    "word": "discernment",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "seçme yeteneği, ayırt etme",
+    "examples": [
+      "She showed great discernment in her choices.",
+      "Good discernment helps you avoid mistakes.",
+      "He has excellent discernment in business matters."
+    ]
+  },
+  {
+    "id": 500,
+    "word": "ambivalence",
+    "pos": "noun",
+    "level": "C2",
+    "turkish": "kararsızlık, çelişkili duygular",
+    "examples": [
+      "She felt ambivalence about moving abroad.",
+      "His ambivalence made the decision harder.",
+      "There is public ambivalence about the new policy."
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "İngilizce 1500",
+    "slug": "ingilizce1500",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0f172a"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ingilizce1500.app"
+    },
+    "android": {
+      "package": "com.ingilizce1500.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
