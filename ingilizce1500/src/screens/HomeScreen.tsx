@@ -19,6 +19,7 @@ interface Props {
   onStart: () => void;
   onSelectLevelGroup: (group: LevelGroup) => void;
   onSelectOrderMode: (mode: OrderMode) => void;
+  onShowWordList: () => void;
   groupAllDone: boolean;
 }
 
@@ -28,6 +29,7 @@ export function HomeScreen({
   onStart,
   onSelectLevelGroup,
   onSelectOrderMode,
+  onShowWordList,
   groupAllDone,
 }: Props) {
   const todayCount = todaysLearnedCount(progress);
@@ -45,6 +47,10 @@ export function HomeScreen({
           {stats.learnedCount} / {TOTAL_WORDS} kelime
         </Text>
       </View>
+
+      <Pressable style={styles.listButton} onPress={onShowWordList}>
+        <Text style={styles.listButtonText}>📋 Kelime Listesi</Text>
+      </Pressable>
 
       <View style={styles.card}>
         <Text style={styles.cardLabel}>Bugünkü hedef</Text>
@@ -127,6 +133,16 @@ const styles = StyleSheet.create({
   },
   reviewCard: { borderWidth: 1, borderColor: '#4338ca', backgroundColor: '#1e1b4b' },
   doneCard: { marginTop: 8 },
+  listButton: {
+    backgroundColor: '#1e293b',
+    borderRadius: 12,
+    paddingVertical: 12,
+    alignItems: 'center',
+    marginBottom: 16,
+    borderWidth: 1,
+    borderColor: '#334155',
+  },
+  listButtonText: { color: '#e2e8f0', fontSize: 14, fontWeight: '700' },
   cardLabel: { color: '#cbd5e1', fontSize: 13, marginBottom: 8 },
   cardValue: { color: '#f8fafc', fontSize: 15, marginTop: 8, fontWeight: '600' },
   statsRow: { flexDirection: 'row', justifyContent: 'space-between', marginBottom: 16 },

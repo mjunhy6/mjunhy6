@@ -18,10 +18,11 @@ import {
 import { HomeScreen } from './src/screens/HomeScreen';
 import { QuizScreen } from './src/screens/QuizScreen';
 import { FeedbackScreen } from './src/screens/FeedbackScreen';
+import { WordListScreen } from './src/screens/WordListScreen';
 
 const WORDS = words as WordEntry[];
 
-type View_ = 'loading' | 'home' | 'quiz' | 'feedback';
+type View_ = 'loading' | 'home' | 'quiz' | 'feedback' | 'wordlist';
 
 export default function App() {
   const [view, setView] = useState<View_>('loading');
@@ -97,6 +98,7 @@ export default function App() {
           onStart={startQuiz}
           onSelectLevelGroup={handleSelectLevelGroup}
           onSelectOrderMode={handleSelectOrderMode}
+          onShowWordList={() => setView('wordlist')}
           groupAllDone={groupAllDone}
         />
       )}
@@ -111,6 +113,9 @@ export default function App() {
           onNext={handleNext}
           onStop={() => setView('home')}
         />
+      )}
+      {view === 'wordlist' && (
+        <WordListScreen words={WORDS} learnedIds={progress.learnedIds} onBack={() => setView('home')} />
       )}
     </>
   );
